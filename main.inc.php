@@ -42,6 +42,11 @@ elseif ( pwg_get_session_var('tour_to_launch') )
 
 function TAT_tour_setup()
 {
+  if (!is_admin())
+  {
+    return;
+  }
+
   global $template, $TAT_restart, $conf;
   $tour_to_launch=pwg_get_session_var('tour_to_launch');
   load_language('plugin.lang', PHPWG_PLUGINS_PATH .'TakeATour/', array('force_fallback'=>'en_UK'));
