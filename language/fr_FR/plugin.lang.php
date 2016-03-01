@@ -16,3 +16,6 @@ $lang['2.7 Tour'] = 'Visite 2.7';
 
 $lang['Privacy'] = 'Vie privée';
 $lang['privacy_descrp'] = 'Cette visite vous explique comment protéger vos photos de l\'accès public avec des systèmes de permissions par album et par photo, et vous protège de la copie à l\'aide de la protection d\'image.';
+
+$lang['2.8 Tour'] = 'Version 2.8';
+$lang['2_8_0_descrp'] = 'Découvrez quelques nouvelles fonctionnalités de Piwigo 2.8. Lire tous les détails sur <a href="%s">les notes de la version</a>.';

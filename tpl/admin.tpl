@@ -1,3 +1,7 @@
+{footer_script require="jquery"}
+jQuery('.TAT_description a[href*="piwigo.org"]').addClass("externalLink");
+{/footer_script}
+
 <div class="titrePage">
   <h2>{'takeatour_configpage'|@translate}</h2>
 </div>
