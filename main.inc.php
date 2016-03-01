@@ -29,7 +29,7 @@ elseif ( isset($_GET['tour_ended']) and defined('IN_ADMIN') and IN_ADMIN )
 /*
  * CHANGE FOR RELEASE
 $version_=str_replace('.','_',PHPWG_VERSION);*/
-$version_="2_7_0";
+$version_="2_8_0";
 /***/
 if (pwg_get_session_var('tour_to_launch')!='tours/'.$version_ and isset($_GET['page']) and $_GET['page']=="plugin-TakeATour")
 { 

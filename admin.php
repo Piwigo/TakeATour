@@ -5,10 +5,19 @@ if (!defined('PHPWG_ROOT_PATH')) die('Hacking attempt!');
 global $template, $conf, $user, $page;
 
 load_language('plugin.lang', PHPWG_PLUGINS_PATH .'TakeATour/');
+
+$tat_28url = 'http://';
+if (substr($user['language'],0,2) == 'fr')
+{
+  $tat_28url.= 'fr.';
+}
+$tat_28url.= 'piwigo.org/releases/2.8.0';
+
 $template->assign(
   array(
     'F_ACTION' => get_root_url().'admin.php',
-    'pwg_token' => get_pwg_token()
+    'pwg_token' => get_pwg_token(),
+    'TAT_28URL' => $tat_28url,
     )
   );
 

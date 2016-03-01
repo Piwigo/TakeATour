@@ -13,3 +13,5 @@ $lang['2.7 Tour'] = '2.7 Tour';
 $lang['2_7_0_descrp'] = 'Discover What\'s New in Piwigo 2.7';
 $lang['Privacy'] = 'Privacy';
 $lang['privacy_descrp'] = 'This tour presents all the ways to protect your photo from public access with permissions per album and per photo, and from copying using image protections.';
+$lang['2.8 Tour'] = '2.8 Tour';
+$lang['2_8_0_descrp'] = 'Discover some Piwigo 2.8 new features. Read details on <a href="%s">the release notes</a>.';
