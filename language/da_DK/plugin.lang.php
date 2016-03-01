@@ -37,3 +37,5 @@ $lang['2_7_0_descrp'] = 'Opdag nyhederne i Piwigo 2.7';
 
 $lang['privacy_descrp'] = 'Denne udflugt præsenterer dig for alle de måder, du kan beskytte et fotografi mod offentlig adgang ved hjælp af rettighedssysteer pr. album og pr. billede, og mod kopiering ved hjælp af billedbeskyttelser.';
 $lang['Privacy'] = 'Privatliv';
+$lang['2.8 Tour'] = 'Udflugt i 2.8';
+$lang['2_8_0_descrp'] = 'Opdag nogle af de nye funktioner i Piwigo 2.8. Læs flere oplysninger i <a href="%s">udgivelsesbemærkningerne</a>.';
