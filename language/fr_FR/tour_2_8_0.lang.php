@@ -9,7 +9,7 @@ $lang['2_8_0_title3'] = 'Clefs d\'identification';
 $lang['2_8_0_stp3'] = 'Pour dire les choses simplement, les clefs d\'identification signifient que vos utilisateurs n\'auront plus besoin de se souvenir de leur mot de passe. Ils accèderont au contenu privé directement et en sécurité.';
 
 $lang['2_8_0_title4'] = 'Filigrane';
-$lang['2_8_0_stp4'] = 'Vous pouvez désormais répéter le filigrane sur plusieurs lignes. <br><br>Paramétrez <em>Répétion Y</em> à 1 ou 2 pour obtenir une répétition.';
+$lang['2_8_0_stp4'] = 'Vous pouvez désormais répéter le filigrane sur plusieurs lignes. <br><br>Paramétrez <em>Répétition Y</em> à 1 ou 2 pour obtenir une répétition.';
 
 $lang['2_8_0_title5'] = 'Orphelines';
 $lang['2_8_0_stp5'] = 'Quand vous supprimez un album, des photos peuvent devenir orphelines. Piwigo 2.8 les met en évidence...';
