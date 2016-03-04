@@ -66,6 +66,10 @@ function TAT_tour_setup()
   $tat_path=str_replace(basename($_SERVER['SCRIPT_NAME']),'', $_SERVER['HTTP_HOST'] . $_SERVER['SCRIPT_NAME']);
   $template->assign('TAT_path', $tat_path);
   $template->assign('ABS_U_ADMIN', get_absolute_root_url());// absolute one due to public pages and $conf['question_mark_in_urls'] = false+$conf['php_extension_in_urls'] = false;
+
+  // some tours may need admin functions (like 2_8_0 needs get_orphans)
+  include_once(PHPWG_ROOT_PATH.'admin/include/functions.php');
+
   include($tour_to_launch.'/config.inc.php');
   $template->set_filename('TAT_tour_tpl', $TOUR_PATH);
   $template->parse('TAT_tour_tpl');
