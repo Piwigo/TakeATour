@@ -37,3 +37,5 @@ $lang['TAT_descrp'] = 'Benvenuti! Ecco un elenco di tutti i tour disponibili per
 $lang['first_contact_descrp'] = 'Consigliato per i principianti, questo tour ti introduce a Piwigo e alle sue caratteristiche di base. Esso si avvierà mostrando come aggiungere foto e quindi gestirle. Il tour prosegue con la gestione album e termina con la personalizzazione tramite configurazione, temi e plugin.';
 $lang['privacy_descrp'] = 'Questo tour presenta tutti i modi per proteggere le tue foto da pubblico accesso con autorizzazioni per album, foto e da copia utilizzando protezioni di immagine.';
 $lang['Privacy'] = 'Privacy';
+$lang['2.8 Tour'] = '2.8 Tour';
+$lang['2_8_0_descrp'] = 'Scopri alcune nuove funzionalità di Piwigo 2.8. Leggi i dettagli sulle <a href="%s">note della versione</a>';
