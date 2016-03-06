@@ -34,3 +34,5 @@ $lang['Visit your Piwigo!'] = 'Käy Piwigossasi!';
 $lang['first_contact_descrp'] = 'Suositeltu aloittelijoille, tämä esittely tutustuttaa sinut Piwigoon ja sen perus ominaisuuksiin. Se alkaa näyttämällä miten kuvia lisätään ja hallitaan. Esittely jatkuu albumien hallinnalla ja loppuu kustomointiin käyttäen asetuksia, teemoja ja laajennuksia.';
 $lang['privacy_descrp'] = 'Tämä esittely näyttää kaikki eri tavat, jolla voit suojella kuviasi julkiselta pääsyltä albumi ja kuva kohtaisesti kopioinnista kuvien suojaukseen.';
 $lang['takeatour_configpage'] = 'Katso esittely » Lista esittelyistä';
+$lang['2.8 Tour'] = '2.8 Esittely';
+$lang['2_8_0_descrp'] = 'Tutki joitain Piwigo 2.8:n uusia ominaisuuksia. Lue yksityiskohdat <a href="%s"> julkaisu tiedoista.';
