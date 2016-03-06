@@ -34,3 +34,5 @@ $lang['End tour'] = 'Koniec prehliadky';
 $lang['2_7_0_descrp'] = 'Zistite, čo je nové v Piwigo 2.7';
 $lang['2.7 Tour'] = '2.7 Tour';
 $lang['Privacy'] = 'O ochrane osobných údajov';
+$lang['2_8_0_descrp'] = 'Objavte niektoré nové funkcie Piwigo 2.8. Prečítajte si podrobnosti v <a href="%s">poznámkach k vydaniu</a>.';
+$lang['2.8 Tour'] = 'Prehliadka 2.8';
