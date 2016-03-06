@@ -20,10 +20,10 @@
 // | Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA 02111-1307, |
 // | USA.                                                                  |
 // +-----------------------------------------------------------------------+
-$lang['2_8_0_stp1'] = 'Nutzerdetails öffnen sich nicht mehr innerhalb der Benutzerliste. Es gibt nun eine einfachere Form basierend auf dem einzelnen Benutzer. <br><br>Piwigo 2.8 beinhaltet zusätzlich einige Fehlerbehebungen. Nun wird die Benutzerliste aktualisiert, wenn ein Benutzer geändert wird und E-Mail-Adressen werden auf Gültigkeit überprüft.';
+$lang['2_8_0_stp1'] = 'Nutzerdetails öffnen sich nicht mehr innerhalb der Benutzerliste. Es gibt nun ein einfacheres Formular, speziell für den einzelnen Benutzer. <br><br>Piwigo 2.8 beinhaltet zusätzlich einige Fehlerbehebungen. Nun wird die Benutzerliste aktualisiert, wenn ein Benutzer geändert wird und E-Mail-Adressen werden auf Gültigkeit überprüft.';
 $lang['2_8_0_stp2'] = 'Mit Piwigo 2.8 können Benutzer und nicht nur Gruppen für E-Mail-Benachrichtigungen ausgewählt werden.';
 $lang['2_8_0_stp3'] = 'Einfach ausgedrückt, mit Authentifizierungsschlüsseln müssen sich Ihre Benutzer keine Passwörter mehr merken. <br><br>Auf private Inhalte kann direkt und sicher zugegriffen werden.';
-$lang['2_8_0_stp4'] = 'Nun ist es möglich, das Wasserzeichen auf mehreren Zeilen zu wiederholen. <br><br>Die <em>Wiederholen</em>-Einstellung auf 1 oder 2 setzen, um diese zu aktivieren.';
+$lang['2_8_0_stp4'] = 'Nun ist es möglich, das Wasserzeichen auf mehreren Zeilen zu wiederholen. <br><br>Setze die <em>Wiederholen</em>-Einstellung auf 1 oder 2 um diese Wiederholung zu aktivieren.';
 $lang['2_8_0_stp5'] = 'Wenn ein Album gelöscht wird, können einige Fotos als verwaiste Dateien zurückbleiben. Mit Piwigo 2.8 werden diese sichtbar gemacht...';
 $lang['2_8_0_stp6'] = '... und können mit einem Klick bearbeitet werden!';
 $lang['2_8_0_title1'] = 'Willkommen bei Piwigo 2.8';
