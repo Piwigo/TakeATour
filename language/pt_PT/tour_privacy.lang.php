@@ -33,3 +33,26 @@ $lang['privacy_stp17'] = 'Um grupo no Piwigo é um conjunto de utentes: assim é
 $lang['privacy_stp2'] = 'Aqui tem acesso às instruções. Faça Next para ir directamente para a página de instruções das permissões.';
 $lang['privacy_stp19'] = 'Aqui você pode fazer a edição rápida de um único registado passando o rato por cima e, em seguida, clique em Editar. <br> Você pode editar vários registados de uma só vez; seleccione-os e escola a acção a aplicar.';
 $lang['privacy_stp18'] = 'para administrar as associações entre registados e grupos, vá à página <em>Users » Manage</em>';
+$lang['privacy_title20'] = 'Fotos públicas';
+$lang['privacy_title21'] = 'Fotos públicas';
+$lang['privacy_title22'] = 'Configuração local: protecção Original';
+$lang['privacy_title24'] = 'Tem sido um grande momento';
+$lang['privacy_title3'] = 'Permissões';
+$lang['privacy_title4'] = 'Permissões';
+$lang['privacy_title5'] = 'Permissões>Grupos';
+$lang['privacy_title6'] = 'Nível de privacidade';
+$lang['privacy_title7'] = 'Nível de privacidade';
+$lang['privacy_title8'] = 'Nível de privacidade';
+$lang['privacy_stp3'] = 'Espere um momento para ler as informações abaixo.';
+$lang['privacy_stp8'] = 'Selecione uma ou mais fotos ...';
+$lang['privacy_title1'] = '
+Bem-vindo ao Tour de Privacidade';
+$lang['privacy_title10'] = '
+Permissões de álbuns';
+$lang['privacy_title11'] = 'Permissões de álbuns';
+$lang['privacy_title12'] = 'Permissões de álbuns';
+$lang['privacy_title17'] = 'Grupos';
+$lang['privacy_title18'] = 'Grupos';
+$lang['privacy_title19'] = 'Usuários';
+$lang['privacy_title2'] = '
+Ajuda dentro do seu Piwigo';
