@@ -30,7 +30,7 @@ $lang['Next '] = 'Nächste';
 $lang['End tour'] = 'Tour beenden';
 
 $lang['First Contact'] = 'Erster Kontakt';
-$lang['first_contact_descrp'] = 'Empfohlen für Anfänger, diese Tour stellt dir die Grundlagen von Piwigo vor. Sie startet mit hinzufügen und verwalten von Bildern. Die Tour geht weiter mit Album-Management und Zugriffsrechte und endet mit individueller Konfiguration der Themen und Plugins.';
+$lang['first_contact_descrp'] = 'Empfohlen für Anfänger, diese Tour stellt dir die Grundlagen von Piwigo vor. Sie startet mit dem Hinzufügen und Verwalten von Bildern. Die Tour geht weiter mit Album-Management und Zugriffsrechte und endet mit individueller Konfiguration der Themen und Plugins.';
 
 $lang['privacy_descrp'] = 'Diese Tour beschreibt alle Möglichkeiten, deine Fotos mit dem Zugriffssystem pro Album oder Foto vor dem öffentlichen Zugriff und mit dem Bildschutz vor dem Kopieren zu schützen.';
 
@@ -38,4 +38,4 @@ $lang['2.7 Tour'] = '2.7 Tour';
 $lang['2_7_0_descrp'] = 'Endecke die Neuigkeiten in Piwigo 2.7';
 $lang['Privacy'] = 'Privatsphäre';
 $lang['2.8 Tour'] = '2.8 Tour';
-$lang['2_8_0_descrp'] = 'Einige der neuen Funktionen von Piwigo 2.8 kennenlernen. Einzelheiten dazu in den <a href="%s">Versionshinweisen</a> lesen.';
+$lang['2_8_0_descrp'] = 'Lerne einige der neuen Funktionen von Piwigo 2.8 kennen. Lies Einzelheiten dazu in den <a href="%s">Versionshinweisen</a>.';
