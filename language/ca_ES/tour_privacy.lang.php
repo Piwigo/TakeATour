@@ -15,3 +15,7 @@ $lang['privacy_title6'] = 'Nivell de privacitat';
 $lang['privacy_title7'] = 'Nivell de privacitat';
 $lang['privacy_title8'] = 'Nivell de privacitat';
 $lang['privacy_title9'] = 'Nivell de privacitat';
+$lang['privacy_stp8'] = 'Seleccioneu una o més fotografies...';
+$lang['privacy_stp3'] = 'Preneu-vos un moment per llegir la informació de sota.';
+$lang['privacy_stp13'] = 'Ara feu clic sobre privat';
+$lang['privacy_stp11'] = 'Ara feu clic sobre la pestanya de Permisos';
