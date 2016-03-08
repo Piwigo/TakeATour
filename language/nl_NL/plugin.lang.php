@@ -37,3 +37,5 @@ $lang['2_7_0_descrp'] = 'Ontdek wat er nieuw is in Piwigo 2.7';
 
 $lang['privacy_descrp'] = 'Deze rondleiding toont alle manieren om je foto te beschermen tegen openbare toegang met behulp van toestemmingssytemen per album en per afbeelding. En ook tegen kopiëren door middel van afbeeldingsbescherming.';
 $lang['Privacy'] = 'Privé';
+$lang['2_8_0_descrp'] = 'Ontdek nieuwe mogelijkheden van Piwigo 2.8. Lees de details in <a href="%s">de release notes</a>.';
+$lang['2.8 Tour'] = '2.8 Rondleiding';
