@@ -37,3 +37,5 @@ $lang['2_7_0_descrp'] = 'Atklājiet, kas jauns Piwigo 2.7';
 
 $lang['privacy_descrp'] = 'Šis apskats iepazīstina ar visiem veidiem, kā aizsargāt savu foto no publiskas piekļuves, izmantojot atļauju sistēmu vienam albūmam un vienam attēlam, un pret kopēšanu, izmantojot attēlu aizsardzību.';
 $lang['Privacy'] = 'Privātums';
+$lang['2.8 Tour'] = '2.8 Tūre';
+$lang['2_8_0_descrp'] = 'Atklājiet dažas Piwigo 2.8 jaunās funkcijas. Lasīt informāciju <a href="%s"> relīzē</a>.';
