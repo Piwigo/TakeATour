@@ -34,3 +34,5 @@ $lang['Next '] = 'Següent';
 $lang['Prev'] = 'Anterior';
 $lang['Privacy'] = 'Privacitat';
 $lang['privacy_descrp'] = 'Aquesta exploració presenta tots els camins per protegir les vostres fotos de l\'accés públic afegint permisos en els àlbums i fotos, i evitant la còpia d\'imatges protegides.';
+$lang['2.8 Tour'] = 'Explora 2.8';
+$lang['2_8_0_descrp'] = 'Descobreix algunes noves funcionalitats de Piwigo 2.8. Llegiu els detalls visitant les <a href="%s">notes de la versió</a>.';
