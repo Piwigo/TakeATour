@@ -72,6 +72,9 @@ function TAT_tour_setup()
 
   include($tour_to_launch.'/config.inc.php');
   $template->set_filename('TAT_tour_tpl', $TOUR_PATH);
+
+  trigger_notify('TAT_before_parse_tour');
+
   $template->parse('TAT_tour_tpl');
 }
 
