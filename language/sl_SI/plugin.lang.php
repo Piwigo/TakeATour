@@ -37,3 +37,5 @@ $lang['Visit your Piwigo!'] = 'Oglejte si vaš Piwigo!';
 $lang['takeatour_configpage'] = 'Začni predtavitev';
 $lang['privacy_descrp'] = 'Ta predstavitev vam prikaže vse možnosti zaščite fotografij pred javnim dostopom s pomočjo nastavitev pravic po Albumih in po fotografijah in zaščito pred kopiranjem z uporabo zaščite fotografij ';
 $lang['first_contact_descrp'] = 'Ta predstavitev je namenjena začetnikom, predstavi vam osnovne lastnosti Piwigo galerije in se prične s predstavitvijo kako dodati fotografije in jih nato upravljati. Predstavitev se nadaljuje z upravljanjem Albumov in se konča s predstavitvijo prilagajanja Piwigo z uporabo Konfiguracije, spreminjanje izgleda (Teme) in uporabo Vtičnikov.';
+$lang['2.8 Tour'] = '2.8 Predstavitev';
+$lang['2_8_0_descrp'] = 'Odkrijte nekatere novosti Piwigo 2.8. Preberite podrobnosti v <a href="%s">opambah ob izdaji</a>.';
