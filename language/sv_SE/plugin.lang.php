@@ -35,3 +35,5 @@ $lang['Visit your Piwigo!'] = 'Besök ditt Piwigo!';
 $lang['first_contact_descrp'] = 'Rekommenderas för nybörjare. Denna rundtur presenterar Piwigo och de grundläggande funktionerna. Den börjar med att visa hur du lägger till bilder och sedan hur du hanterar dem. Rundturen fortsätter sedan med albumhantering och slutar med anpassningar via konfigurationer, teman och insticksmoduler.';
 $lang['privacy_descrp'] = 'Rundturen visar alla sätt att skydda ditt foto från allmän åtkomst med rättigheter per album och per foto, och från kopiering.';
 $lang['takeatour_configpage'] = 'Ta en rundtur » Lista över rundturer';
+$lang['2.8 Tour'] = '2.8 rundtur';
+$lang['2_8_0_descrp'] = 'Upptäck <a href="%s">nya funktioner i Piwigo 2.8</a>.';
