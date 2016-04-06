@@ -23,3 +23,12 @@
 $lang['2_8_0_stp3'] = 'Jednoduše řečeno, autentizační klíče umožní vašim uživatelům přistupovat ke svému obsahu přímo a bezpečně, aniž by si museli pamatovat své heslo.';
 $lang['2_8_0_stp2'] = 'V nastavení upozornění na album umožňuje Piwigo 2.8 vybrat jednotlivé uživatele, ne pouze celé skupiny.';
 $lang['2_8_0_stp1'] = 'Detaily uživatele už se neotevírají v seznamu uživatelů, ale v jednoduchém samostatném formuláři zaměřeném na jednoho uživatele.<br><br>Piwigo 2.8 také opravuje několik chyb jako aktualizování seznamu uživatelů poté, co byl uživatel upraven, nebo kontrolu validity e-mailové adresy.';
+$lang['2_8_0_title2'] = 'Upozornit uživatele';
+$lang['2_8_0_title3'] = 'Autentizační klíče';
+$lang['2_8_0_title4'] = 'Vodoznak';
+$lang['2_8_0_title5'] = 'Sirotci';
+$lang['2_8_0_title6'] = 'Sirotci';
+$lang['2_8_0_title1'] = 'Vítejte v Piwigo 2.8';
+$lang['2_8_0_stp6'] = '… a postaráte se o ně jedním kliknutím!';
+$lang['2_8_0_stp5'] = 'Když smažete album, některé fotografie se mohou stát sirotky. V Piwigo 2.8 je snadno vyfiltrujete…';
+$lang['2_8_0_stp4'] = 'Od této verze je možné zvolit opakování vodoznaku na několika řádích.<br><br>Nastavte hodnotu <em>opakování na ose Y</em> na 1 nebo 2.';
