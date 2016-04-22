@@ -23,14 +23,14 @@
 $lang['2_7_0_stp6'] = 'La caixa de selecció d\'àlbums, etiquetes, etc ha canviat en una de nova molt més entenedora. Prova-la a sota';
 $lang['2_7_0_stp4'] = 'La pàgina de cerca s\'ha refet: habilitat de seleccionar propietats en les quals la paraula clau s\'apliqui, llista d\'autors trobats en la base de dades, llista de auto-compleció d\'etiquetes, llista d\'auto-compleció d\'àlbums...';
 $lang['2_7_0_stp2b'] = 'El nou formulari de càrrega de Piwigo 2.7 està basat en HTML5 en comptes de Flash, això significa una millor compatibilitat amb els navegadors web moderns i una millor confiança amb connexions lentes. L\'opció de clicar i arrastrar farà molt més fàcil la selecció de fotos! ';
-$lang['2_7_0_stp9'] = 'S\'ha afegit un filtre en el gestor per lots. Inclou una potent sintaxi de cerca de fotos per dates, etiquetes, mides, nom d\'arxius i també opcions de cerca com exact, match, AND/OR, grouping, exclusion. Més tard podeu llegir l\'ajuda detallada. La mateixa sintaxi s\'aplica en el camp de cerca ràpida en menú del costat públic.';
+$lang['2_7_0_stp9'] = 'S\'ha afegit un filtre en el gestor de processament per lots. Inclou una potent sintaxi de cerca de fotos per dates, etiquetes, mides, nom d\'arxius i també opcions de cerca com exact, match, AND/OR, grouping, exclusion. Més tard podeu llegir l\'ajuda detallada. La mateixa sintaxi s\'aplica en el camp de cerca ràpida en menú del costat públic.';
 $lang['2_7_0_stp5'] = 'Podeu indicar l\'hora i la data, utilitzant els sliders Hora i Minut';
 $lang['2_7_0_stp7'] = 'Ara podreu ordenar els àlbums en la data de creació o d\'enviament de les fotos.';
 $lang['2_7_0_stp8'] = 'Acció senzilla per buidar el carret en un únic clic';
 $lang['2_7_0_title2b'] = 'Nova pujada de';
 $lang['2_7_0_title8'] = 'Buida el carret';
 $lang['2_7_0_title9'] = 'Filtre de cerca';
-$lang['2_7_0_stp10'] = 'S\'ha afegit un filtre de mida de fitxer en el gestor per lots. Podeu seleccionar un rang amb un valor mínim i màxim.';
+$lang['2_7_0_stp10'] = 'S\'ha afegit un filtre de mida de fitxer en el gestor de processament per lots. Podeu seleccionar un rang amb un valor mínim i màxim.';
 $lang['2_7_0_stp2'] = 'Com podeu veure, s\'ha afegit un nou connector: Exploreu. Aquest connector us ajudarà a descobrir Piwigo. Aquí hi ha una llista de totes les possibles exploracions. <br/> Aquesta pàgina està disponible a <em>Connectors » Exploreu </em>';
 $lang['2_7_0_stp11'] = 'Aquesta exploració s\'ha acabat <p style="text-align:center"> Gaudiu de Piwigo 2.7</p> Si us agrada Piwigo i voleu donar-nos suport, podeu contribuir ajudant a traduir, donant, etc. <a href="http://piwigo.org/basics/contribute" target="_blank">Cliqueu aquí per donar suport </a>  Gràcies!';
 $lang['2_7_0_title10'] = 'Filtre de mida de fitxer';
