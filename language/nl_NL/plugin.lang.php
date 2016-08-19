@@ -20,22 +20,22 @@
 // | Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA 02111-1307, |
 // | USA.                                                                  |
 // +-----------------------------------------------------------------------+
-$lang['Take a tour and discover the features of your Piwigo gallery » Go to the available tours'] = 'Neem een ​​rondleiding en ontdek de mogelijkheden van uw Piwigo galerie » Ga nu naar de beschikbare rondleidingen. ';
+$lang['Take a tour and discover the features of your Piwigo gallery » Go to the available tours'] = 'Neem een ​​rondleiding en ontdek de mogelijkheden van jouw Piwigo galerie » Ga nu naar de beschikbare rondleidingen. ';
 $lang['takeatour_configpage'] = 'Neem een rondleiding » Lijst van rondleidingen';
-$lang['Visit your Piwigo!'] = 'Bezoek uw Piwigo!';
+$lang['Visit your Piwigo!'] = 'Bezoek jouw Piwigo!';
 $lang['Start the Tour'] = 'Start de rondleiding';
 $lang['Prev'] = 'Vorige';
 $lang['Next '] = 'Volgende';
 $lang['End tour'] = 'Einde rondleiding';
-$lang['TAT_descrp'] = 'Welkom! Hier vindt u alle beschikbare rondleidingen om de mogelijkheden van uw Piwigo galerie te ontdekken.<br>Start een rondleiding hieronder en volg hierna de instructies. Klik Volgende/Vorige (of gebruik de pijltjes van uw toetsenbord) om door de rondleiding te navigeren. Als u tijdens de rondleiding naar een andere pagina van de administratie gaat, wordt u doorgestuurd naar de huidige pagina van de Rondleiding. Als u vast komt te zitten en de rondleiding niet kunt afronden gaat u naar <em>Plugins >> Neem een Rondleiding</em>. Hiermee beëindigt u de rondleiding.';
+$lang['TAT_descrp'] = 'Welkom! Hier vind je alle beschikbare rondleidingen om de mogelijkheden van jouw Piwigo galerie te ontdekken.<br>Start een rondleiding hieronder en volg de instructies. Klik Volgende/Vorige (of gebruik de pijltjes van je toetsenbord) om door de rondleiding te navigeren. Als je tijdens de rondleiding naar een andere pagina van beheer gaat, word je doorgestuurd naar de huidige pagina van de Rondleiding. Als je vast komt te zitten en de rondleiding niet kunt afronden ga je naar <em>Plugins >> Neem een Rondleiding</em>. Hiermee beëindigt je de rondleiding.';
 
 $lang['First Contact'] = 'Eerste contact';
-$lang['first_contact_descrp'] = 'Aanbevolen voor beginnelingen: deze rondleiding is een introductie tot Piwigo and zijn basismogelijkheden. Het begint bij het toevoegen van foto\'s en vervolgt met het beheer ervan. De rondleiding gaat verder met het beheren van albums en toestemmingen. Het eindigt met het naar eigen wensen aanpassen met behulp van de configuratie, de thema\'s en de plugins.';
+$lang['first_contact_descrp'] = 'Aanbevolen voor beginnelingen: deze rondleiding is een introductie tot Piwigo en zijn basismogelijkheden. Het begint bij het toevoegen van foto\'s en vervolgt met het beheer ervan. De rondleiding gaat verder met het beheren van albums. Het eindigt met het naar eigen wensen aanpassen met behulp van de configuratie, thema\'s en plugins.';
 
 $lang['2.7 Tour'] = '2.7 rondleiding';
 $lang['2_7_0_descrp'] = 'Ontdek wat er nieuw is in Piwigo 2.7';
 
-$lang['privacy_descrp'] = 'Deze rondleiding toont alle manieren om je foto te beschermen tegen openbare toegang met behulp van toestemmingssytemen per album en per afbeelding. En ook tegen kopiëren door middel van afbeeldingsbescherming.';
+$lang['privacy_descrp'] = 'Deze rondleiding toont alle manieren om je foto te beschermen tegen openbare toegang met behulp van rechten per album en per afbeelding. En ook tegen kopiëren door middel van afbeeldingsbescherming.';
 $lang['Privacy'] = 'Privé';
 $lang['2_8_0_descrp'] = 'Ontdek nieuwe mogelijkheden van Piwigo 2.8. Lees de details in <a href="%s">de release notes</a>.';
 $lang['2.8 Tour'] = '2.8 Rondleiding';
