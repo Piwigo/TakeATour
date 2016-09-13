@@ -35,3 +35,5 @@ $lang['Take a tour and discover the features of your Piwigo gallery » Go to the
 $lang['privacy_descrp'] = 'Bu tur, albüme ve fotoğraflara verilen izinlerle genel erişime ve kopyalamaya karşın fotoğraflarınızın korunma yollarını sunar.';
 $lang['First Contact'] = 'İlk Karşılaşma';
 $lang['takeatour_configpage'] = 'Bir Tur Atın » Tur Listesi';
+$lang['2.8 Tour'] = '2.8 Turu';
+$lang['2_8_0_descrp'] = '2.8 ile gelen yeni özellikleri keşfter. Detayları <a href="%s">oku</a>.';
