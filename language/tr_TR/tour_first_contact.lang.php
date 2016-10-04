@@ -44,3 +44,6 @@ $lang['first_contact_stp32'] = 'Şimdi değiştirdikleri kaydet';
 $lang['first_contact_stp35'] = 'En sevdiğin tema varsayılan olarak belirle.';
 $lang['first_contact_stp4'] = 'Önce bir albüm seç; albüm bulunmazsa bir tane oluştur.';
 $lang['first_contact_title1'] = 'Piwigo Galeri\'de Hoş Geldin';
+$lang['first_contact_stp15'] = 'Bu sayfada resimlerim tüm özelliklerini düzenleyebilirsiniz';
+$lang['first_contact_stp11'] = 'Buradan bir veya daha fazla resim seçebilirsiniz';
+$lang['first_contact_stp12'] = 'daha sonra eylem seçerek düzenleyebilirsiniz';
