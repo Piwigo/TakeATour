@@ -35,3 +35,5 @@ $lang['Take a tour and discover the features of your Piwigo gallery » Go to the
 $lang['First Contact'] = 'Nume de contact';
 $lang['Visit your Piwigo!'] = 'Viziteaza galeria ta Piwigo!';
 $lang['Privacy'] = 'Confidentialitate';
+$lang['2_8_0_descrp'] = 'Descoperă unele noutaţi din Piwigo 2.8. Citește mai multe detalii pe <a href="%s">nota de presă</a>.';
+$lang['2.8 Tour'] = 'Tur pentru versiunea 2.8';
