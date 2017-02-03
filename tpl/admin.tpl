@@ -7,7 +7,7 @@ jQuery('.TAT_description a[href*="piwigo.org"]').addClass("externalLink");
 </div>
 <div id="helpContent">
   <p>{'TAT_descrp'|@translate}</p>
-  {if !isset($TAT_tour_ignored) or (isset($TAT_tour_ignored) and in_array(first_contact, $TAT_tour_ignored))}
+  {if !isset($TAT_tour_ignored) or (isset($TAT_tour_ignored) and !in_array('first_contact', $TAT_tour_ignored))}
   <fieldset>
     <legend>{'First Contact'|@translate}</legend>
     <div class="TAT_description">{'first_contact_descrp'|@translate}</div>
@@ -18,7 +18,7 @@ jQuery('.TAT_description a[href*="piwigo.org"]').addClass("externalLink");
     </form>
   </fieldset>
   {/if}
-  {if !isset($TAT_tour_ignored) or (isset($TAT_tour_ignored) and in_array(privacy, $TAT_tour_ignored))}
+  {if !isset($TAT_tour_ignored) or (isset($TAT_tour_ignored) and !in_array('privacy', $TAT_tour_ignored))}
   <fieldset>
     <legend>{'Privacy'|@translate}</legend>
     <div class="TAT_description">{'privacy_descrp'|@translate}</div>
@@ -29,7 +29,7 @@ jQuery('.TAT_description a[href*="piwigo.org"]').addClass("externalLink");
     </form>
   </fieldset>
   {/if}
-  {if !isset($TAT_tour_ignored) or (isset($TAT_tour_ignored) and in_array(2_8_0, $TAT_tour_ignored))}
+  {if !isset($TAT_tour_ignored) or (isset($TAT_tour_ignored) and !in_array('2_8_0', $TAT_tour_ignored))}
   <fieldset>
     <legend>{'2.8 Tour'|@translate}</legend>
     <div class="TAT_description">{'2_8_0_descrp'|@translate|sprintf:$TAT_28URL}</div>
@@ -40,7 +40,7 @@ jQuery('.TAT_description a[href*="piwigo.org"]').addClass("externalLink");
     </form>
   </fieldset>
   {/if}
-  {if !isset($TAT_tour_ignored) or (isset($TAT_tour_ignored) and in_array(2_7_0, $TAT_tour_ignored))}
+  {if !isset($TAT_tour_ignored) or (isset($TAT_tour_ignored) and !in_array('2_7_0', $TAT_tour_ignored))}
   <fieldset>
     <legend>{'2.7 Tour'|@translate}</legend>
     <div class="TAT_description">{'2_7_0_descrp'|@translate}</div>
