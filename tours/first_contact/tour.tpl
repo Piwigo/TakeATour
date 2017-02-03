@@ -17,7 +17,7 @@ tour.addSteps([
   {
     path: "{/literal}{$TAT_path}{literal}admin.php",
     placement: "right",
-    element: "a[href='./admin.php?page=photos_add']",
+    element: "#menubar a[href='./admin.php?page=photos_add']",
     reflex:true,
     title: "{/literal}{'first_contact_title2'|@translate|@escape:'javascript'}{literal}",
     content: "{/literal}{'first_contact_stp2'|@translate|@escape:'javascript'}{literal}",
