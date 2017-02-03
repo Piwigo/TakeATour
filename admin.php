@@ -6,6 +6,15 @@ global $template, $conf, $user, $page;
 
 load_language('plugin.lang', PHPWG_PLUGINS_PATH .'TakeATour/');
 
+include_once(PHPWG_ROOT_PATH .'admin/include/tabsheet.class.php');
+$page['tab'] = 'list';
+
+$tabsheet = new tabsheet();
+$tabsheet->add('list', '<span class="icon-menu"></span>'.'Take a Tour', get_root_url().'admin.php?page=plugin-TakeATour');
+$tabsheet->select($page['tab']);
+$tabsheet->assign();
+
+
 $tat_28url = 'http://';
 if (substr($user['language'],0,2) == 'fr')
 {
