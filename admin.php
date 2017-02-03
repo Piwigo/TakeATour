@@ -26,10 +26,28 @@ $template->func_combine_css(array(
 	)
 );
 
-if (isset($conf['TakeATour_tour_ignored']) and is_array($conf['TakeATour_tour_ignored']))
+// automatically ignore "new features" of other version (older or newer). We
+// assume the "new features" tours are always named x_y_0
+if (!isset($conf['TakeATour_tour_ignored']))
 {
-  $template->assign('TAT_tour_ignored', $conf['TakeATour_tour_ignored']);
+  $conf['TakeATour_tour_ignored'] = array();
 }
+
+$tours_directory = PHPWG_PLUGINS_PATH.'TakeATour/tours';
+$tour_candidates = scandir($tours_directory);
+
+foreach ($tour_candidates as $candidate)
+{
+  if (preg_match('/^(\d+_\d+)_0$/', $candidate, $matches))
+  {
+    if (get_branch_from_version(PHPWG_VERSION) != str_replace('_', '.', $matches[1]))
+    {
+      $conf['TakeATour_tour_ignored'][] = $candidate;
+    }
+  }
+}
+
+$template->assign('TAT_tour_ignored', $conf['TakeATour_tour_ignored']);
 $template->set_filename('plugin_admin_content', dirname(__FILE__) .'/tpl/admin.tpl');
 $template->assign_var_from_handle('ADMIN_CONTENT', 'plugin_admin_content');
 
