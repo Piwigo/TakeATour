@@ -26,7 +26,6 @@ $template->assign(
   array(
     'F_ACTION' => get_root_url().'admin.php',
     'pwg_token' => get_pwg_token(),
-    'TAT_28URL' => $tat_28url,
     )
   );
 
@@ -42,21 +41,48 @@ if (!isset($conf['TakeATour_tour_ignored']))
   $conf['TakeATour_tour_ignored'] = array();
 }
 
-$tours_directory = PHPWG_PLUGINS_PATH.'TakeATour/tours';
-$tour_candidates = scandir($tours_directory);
+$tours = array(
+  'first_contact',
+  'privacy',
+  '2_7_0',
+  '2_8_0',
+  );
 
-foreach ($tour_candidates as $candidate)
+
+if (isset($conf['TakeATour_tour_ignored']))
 {
-  if (preg_match('/^(\d+_\d+)_0$/', $candidate, $matches))
-  {
-    if (get_branch_from_version(PHPWG_VERSION) != str_replace('_', '.', $matches[1]))
-    {
-      $conf['TakeATour_tour_ignored'][] = $candidate;
-    }
-  }
+  $tours = array_diff($tours, $conf['TakeATour_tour_ignored']);
 }
 
-$template->assign('TAT_tour_ignored', $conf['TakeATour_tour_ignored']);
+$tpl_tours = array();
+
+foreach ($tours as $tour_id)
+{
+  $tour = array(
+    'id' => $tour_id,
+    'desc' => l10n($tour_id.'_descrp'),
+    );
+
+  switch ($tour_id)
+  {
+    case 'first_contact':
+      $tour['name'] = l10n('First Contact'); break;
+    case 'privacy':
+      $tour['name'] = l10n('Privacy'); break;
+    case '2_8_0':
+      $tour['name'] = l10n('2.8 Tour');
+      $tour['desc'] = l10n($tour_id.'_descrp', $tat_28url);
+      break;
+    case '2_7_0':
+      $tour['name'] = l10n('2.7 Tour'); break;
+    default :
+      $tour['name'] = l10n($tour_id.'_name');
+  }
+
+  $tpl_tours[] = $tour;
+}
+
+$template->assign('tours', $tpl_tours);
 $template->set_filename('plugin_admin_content', dirname(__FILE__) .'/tpl/admin.tpl');
 $template->assign_var_from_handle('ADMIN_CONTENT', 'plugin_admin_content');
 
