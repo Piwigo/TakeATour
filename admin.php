@@ -4,7 +4,7 @@ if (!defined('PHPWG_ROOT_PATH')) die('Hacking attempt!');
 
 global $template, $conf, $user, $page;
 
-load_language('plugin.lang', PHPWG_PLUGINS_PATH .'TakeATour/');
+load_language('plugin.lang', PHPWG_PLUGINS_PATH .'TakeATour/', array('force_fallback'=>'en_UK'));
 
 include_once(PHPWG_ROOT_PATH .'admin/include/tabsheet.class.php');
 $page['tab'] = 'list';
@@ -34,23 +34,29 @@ $template->func_combine_css(array(
 	)
 );
 
-// automatically ignore "new features" of other version (older or newer). We
-// assume the "new features" tours are always named x_y_0
-if (!isset($conf['TakeATour_tour_ignored']))
-{
-  $conf['TakeATour_tour_ignored'] = array();
-}
-
 $tours = array(
   'first_contact',
+  'edit_photos',
+  'manage_albums',
+  'config',
+  'plugins',
   'privacy',
-  '2_7_0',
-  '2_8_0',
   );
 
+$version_tour = str_replace('.', '_', get_branch_from_version(PHPWG_VERSION)).'_0';
+
+if (file_exists(PHPWG_PLUGINS_PATH.'TakeATour/tours/'.$version_tour.'/config.inc.php'))
+{
+  $tours[] = $version_tour;
+}
 
 if (isset($conf['TakeATour_tour_ignored']))
 {
+  if (!is_array($conf['TakeATour_tour_ignored']))
+  {
+    $conf['TakeATour_tour_ignored'] = array($conf['TakeATour_tour_ignored']);
+  }
+
   $tours = array_diff($tours, $conf['TakeATour_tour_ignored']);
 }
 

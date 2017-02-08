@@ -13,6 +13,7 @@ $lang['first_contact_title6'] = '';
 $lang['first_contact_stp6'] = 'You see that photos are being listed. When you\'re ready click the button Start Upload';
 $lang['first_contact_title7'] = '';
 $lang['first_contact_stp7'] = 'Here a summary of your uploaded photos. See that Piwigo has itself generated the thumbnails. You can:<ul><li>manage all the uploaded photos in the Batch Manager</li><li>edit the properties of a photo by clicking on it</li><li>add more photos</li></ul>';
+
 $lang['first_contact_title8'] = '';
 $lang['first_contact_stp8'] = 'Let\'s edit them! Click on the link.';
 $lang['first_contact_title9'] = 'The Batch Manager';
@@ -33,6 +34,7 @@ $lang['first_contact_title16'] = '';
 $lang['first_contact_stp16'] = '...in which album(s) is the photo.<br><br>So here you can add or remove the photo from albums. The link is virtual, no photos will be physically moved ever.';
 $lang['first_contact_title17'] = '';
 $lang['first_contact_stp17'] = 'Here you can set the photo as a thumbnail of one or several albums. The photo doesn\'t have to be associated with the album to be its thumbnail. If the photo is associated with the album, it\'s even simpler to set it as album thumbnail from the public page of the photo (tip: use plugin Admin Tools for even more simplicity).';
+
 $lang['first_contact_title18'] = 'Manage albums';
 $lang['first_contact_stp18'] = 'Let\'s see how to manage albums now. Click <em>On album » Manage</em> or hit Next';
 $lang['first_contact_title19'] = 'Manage Albums';
@@ -46,8 +48,10 @@ $lang['first_contact_title22'] = 'Album Edit Page';
 $lang['first_contact_stp22'] = 'Like for a photo, here you can edit the properties of an album';
 $lang['first_contact_title23'] = '';
 $lang['first_contact_stp23'] = 'Locking an album means only administrators will be able to see that album: very useful when preparing the album before publishing';
+
 $lang['first_contact_title28'] = 'Configuration';
 $lang['first_contact_stp28'] = 'Now we will look at the options available to set Piwigo working your way. Click on Configuration->Options or just hit Next.';
+
 $lang['first_contact_title29'] = '<em>Configuration » Options » General</em>';
 $lang['first_contact_stp29'] = 'Here, on that first page, you will set the essential and basic configuration of your gallery.';
 $lang['first_contact_title30'] = '';
@@ -64,6 +68,7 @@ $lang['first_contact_title35'] = 'Themes';
 $lang['first_contact_stp35'] = 'Set your favorite theme as the default theme.';
 $lang['first_contact_title37'] = 'Themes';
 $lang['first_contact_stp37'] = 'To install new themes, you can directly download them from the tab \'Add a theme\'. Only the themes marked as compatible with your version of Piwigo are shown.<br><br>Let\'s discover plugins now! Click on <em>Plugin » Manage</em>';
+
 $lang['first_contact_title38'] = 'Plugins';
 $lang['first_contact_stp38'] = 'Plugins are very easy ways to customize your Piwigo. They can do almost anything you can imagine from small text additions to complete features, like the Community plugin which allows non administrators users to upload without entering the administration part.';
 $lang['first_contact_title39'] = 'Plugins';
@@ -72,5 +77,7 @@ $lang['first_contact_title40'] = '';
 $lang['first_contact_stp40'] = 'It\'s me here! Don\'t deactivate me now, but you can see you can Deactivate or Restore an activated plugin.';
 $lang['first_contact_title41'] = '';
 $lang['first_contact_stp41'] = 'You can see on the last tab all the plugins available for your version of Piwigo. Hundred of plugins are there!';
+
+
 $lang['first_contact_title43'] = 'It\'s been a great time';
 $lang['first_contact_stp43'] = 'This tour was quite long, but we only have seen a small part of how powerful Piwigo is. Everything has an end, this overview is finished.<br><br>You can investigate more deeply the features of Piwigo by taking another tour or reading our documentation, on the piwigo.org website.<br><br>Don\'t forget also the Help link at the upper right corner of any administration page.<p style="text-align:center">Enjoy your Piwigo!</p>';

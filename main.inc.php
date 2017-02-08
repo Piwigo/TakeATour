@@ -54,6 +54,13 @@ function TAT_tour_setup()
   list(, $tour_name) = explode('/', $tour_to_launch);
   load_language('tour_'.$tour_name.'.lang', PHPWG_PLUGINS_PATH .'TakeATour/', array('force_fallback'=>'en_UK'));
 
+  if (in_array($tour_name, array('edit_photos', 'manage_albums', 'config', 'plugins')))
+  {
+    // because these tours come from splitting the original "first_contact"
+    // tour, we also load this language file
+    load_language('tour_first_contact.lang', PHPWG_PLUGINS_PATH .'TakeATour/', array('force_fallback'=>'en_UK'));
+  }
+
   $template->set_filename('TAT_js_css', PHPWG_PLUGINS_PATH.'TakeATour/tpl/js_css.tpl');
   $template->assign('ADMIN_THEME', $conf['admin_theme']);
   $template->parse('TAT_js_css');
