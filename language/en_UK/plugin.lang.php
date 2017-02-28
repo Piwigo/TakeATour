@@ -19,7 +19,7 @@ $lang['edit_photos_name'] = 'Edit Photos';
 $lang['edit_photos_descrp'] = 'Photos are the basic element in your Piwigo. See how you can change their properties, one photo at a time or in a batch.';
 
 $lang['manage_albums_name'] = 'Manage Albums';
-$lang['manage_albums_descrp'] = 'You album hierarchy is the structure of your gallery. Learn how to organize them and edit their properties.';
+$lang['manage_albums_descrp'] = 'Your album hierarchy is the structure of your gallery. Learn how to organize them and edit their properties.';
 
 $lang['config_name'] = 'Configuration';
 $lang['config_descrp'] = 'Configure your Piwigo settings. Discover the theme manager and select the appearance of your Piwigo.';
