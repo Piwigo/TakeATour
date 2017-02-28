@@ -55,9 +55,9 @@ tour.init();
 tour.start();
 
 jQuery( "p.albumActions > a:nth-child(1)" ).click(function() {
-  if (tour.getCurrentStep()==20)
+  if (tour.getCurrentStep()==2)
   {
-    tour.goTo(21);
+    tour.goTo(3);
   }
 });
 
