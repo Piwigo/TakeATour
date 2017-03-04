@@ -39,3 +39,11 @@ $lang['privacy_descrp'] = 'Denne udflugt præsenterer dig for alle de måder, du
 $lang['Privacy'] = 'Privatliv';
 $lang['2.8 Tour'] = 'Udflugt i 2.8';
 $lang['2_8_0_descrp'] = 'Opdag nogle af de nye funktioner i Piwigo 2.8. Læs flere oplysninger i <a href="%s">udgivelsesbemærkningerne</a>.';
+$lang['config_descrp'] = 'Opsæt dine Piwigo-indstillinger. Opdag temamanageren og vælg din Piwigos udseende.';
+$lang['config_name'] = 'Opsætning';
+$lang['edit_photos_descrp'] = 'Fotografier er grundelementet i din Piwigo. Se hvordan du kan ændre deres egenskaber, et fotografi ad gangen eller i bundter (batch).';
+$lang['edit_photos_name'] = 'Rediger fotografier';
+$lang['manage_albums_descrp'] = 'Dit albumhierarki er dit galleris struktur. Lær hvordan de organiseres og hvordan deres egenskaber redigeres.';
+$lang['manage_albums_name'] = 'Håndter albummer';
+$lang['plugins_descrp'] = 'Plugins er er en hovedelement i Piwigo. Aktiver forskellige funktionalitet gennem nogle få klik, og få Piwigo til at opfylde dine behov.';
+$lang['plugins_name'] = 'Plugins';
