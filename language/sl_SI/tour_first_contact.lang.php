@@ -16,3 +16,6 @@ $lang['first_contact_title5'] = '';
 $lang['first_contact_title6'] = '';
 $lang['first_contact_title7'] = '';
 $lang['first_contact_title8'] = '';
+$lang['first_contact_stp13'] = 'Uredite opis in še več z uporabo paketnega urejevalnika v enojnem načinu. Vendar za sedaj ostanimo v globalnem načinu';
+$lang['first_contact_stp11'] = 'Tu lahko izberete eno ali več fotografij';
+$lang['first_contact_stp1'] = 'Pozdravljeni! Sem vaš vodič pri spoznavanju Piwigo. Prosim sledite mojim navodilom in za navigacijo kliknite Naprej (ali uporabite puščice na vaši tipkovnici). Če greste na drugo stran administracije boste preusmerjeni na trenutno stran predstavitve. Če se zatakne in ne morete končati Predstavitve potem pojdite na <em> Vičniki » Predstavitev</em> kar bo končalo Predstavitev.<br> Začnimo z dodajanjem fotografij!';
