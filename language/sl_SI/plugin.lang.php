@@ -39,3 +39,11 @@ $lang['privacy_descrp'] = 'Ta predstavitev vam prikaže vse možnosti zaščite 
 $lang['first_contact_descrp'] = 'Ta predstavitev je namenjena začetnikom, predstavi vam osnovne lastnosti Piwigo galerije in se prične s predstavitvijo kako dodati fotografije in jih nato upravljati. Predstavitev se nadaljuje z upravljanjem Albumov in se konča s predstavitvijo prilagajanja Piwigo z uporabo Konfiguracije, spreminjanje izgleda (Teme) in uporabo Vtičnikov.';
 $lang['2.8 Tour'] = '2.8 Predstavitev';
 $lang['2_8_0_descrp'] = 'Odkrijte nekatere novosti Piwigo 2.8. Preberite podrobnosti v <a href="%s">opambah ob izdaji</a>.';
+$lang['config_descrp'] = 'Konfiguracija vaših Piwigo nastavitev. Odkrijte upravitelja preoblek in izberite videz vaše Piwigo galerije';
+$lang['config_name'] = 'Konfiguracija';
+$lang['edit_photos_descrp'] = 'Slike so osnovni element v vaši Piwigo galeriji. Poglejte si, kako lahko spremenite lastnosti slik za posamično sliko ali za skupino slik';
+$lang['edit_photos_name'] = 'Uredi slike';
+$lang['manage_albums_descrp'] = 'Hierarhija vaših albumov je struktura vaše galerije. Naučite se kako jih organizirati in urediti njihove lastnosti';
+$lang['manage_albums_name'] = 'Upravljanje Albumov';
+$lang['plugins_descrp'] = 'Vtičniki so ključna značilnost v Piwigo. Aktivirajte različne funkcije z nekaj kliki in si s tem prilagodite delovanje Piwigo tako kot vam ustreza.';
+$lang['plugins_name'] = 'Vtičniki';
