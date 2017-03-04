@@ -39,3 +39,11 @@ $lang['privacy_descrp'] = 'Deze rondleiding toont alle manieren om je foto te be
 $lang['Privacy'] = 'Privé';
 $lang['2_8_0_descrp'] = 'Ontdek nieuwe mogelijkheden van Piwigo 2.8. Lees de details in <a href="%s">de release notes</a>.';
 $lang['2.8 Tour'] = '2.8 Rondleiding';
+$lang['config_descrp'] = 'Configureer uw Piwigo-instellingen. Ontdek de Thema-manager en selecteer het uiterlijk van uw Piwigo.';
+$lang['config_name'] = 'Configuratie';
+$lang['edit_photos_descrp'] = 'Foto\'s zijn de basiselementen van uw Piwigo. Bekijk hoe je de eigenschappen van deze foto\'s, één foto per keer of in een batch, kunt veranderen.';
+$lang['edit_photos_name'] = 'Bewerk foto\'s';
+$lang['manage_albums_descrp'] = 'Uw album-hiërarchie is de structuur van uw galerij. Bekijk hoe u deze kunt organiseren en hun eigenschappen bewerken.';
+$lang['manage_albums_name'] = 'Beheer albums';
+$lang['plugins_descrp'] = 'Plugins hebben een belangrijke functie binnen Piwigo. Activeer met een paar klikken de verschillende functies en pas Piwigo aan aan uw wensen.';
+$lang['plugins_name'] = 'Plugins';
