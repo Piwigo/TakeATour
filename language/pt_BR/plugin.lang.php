@@ -39,3 +39,11 @@ $lang['privacy_descrp'] = 'Este tour irá apresentar-lhe todas as maneiras de pr
 $lang['Privacy'] = 'Privacidade';
 $lang['2.8 Tour'] = '2.8 Tour';
 $lang['2_8_0_descrp'] = 'Descubra alguns novos recursos do Piwik 2.8. Leia mais detalhes nas <a href="%s">notas de lançamento</a>.';
+$lang['plugins_name'] = 'Plugins';
+$lang['plugins_descrp'] = 'Os plug-ins são uma característica chave no Piwigo. Ative vários recursos em poucos cliques e faça com que o Piwigo se adapte às suas necessidades.';
+$lang['manage_albums_name'] = 'Gerenciar Álbuns';
+$lang['manage_albums_descrp'] = 'A hierarquia do seu álbum é a estrutura da sua galeria. Saiba como organizá-los e editar suas propriedades.';
+$lang['edit_photos_name'] = 'Editar Fotos';
+$lang['edit_photos_descrp'] = 'As fotos são o elemento básico em seu Piwigo. Veja como você pode alterar suas propriedades, uma foto de cada vez ou em lote.';
+$lang['config_name'] = 'Configuração';
+$lang['config_descrp'] = 'Configure suas configurações do Piwigo. Descubra o gerente do tema e selecione a aparência do seu Piwigo.';
