@@ -28,3 +28,6 @@ $lang['plugins_name'] = 'Plugins';
 $lang['plugins_descrp'] = 'Plugins are a key feature in Piwigo. Activate various features in a few clicks and make Piwigo fit your needs.';
 
 $lang['first_contact_descrp'] = 'Recommended for beginners, this tour introduces you to Piwigo with a basic first step : create an album and add your first photos.';
+
+$lang['2_9_0_name'] = '2.9 Tour';
+$lang['2_9_0_descrp'] = 'Discover some Piwigo 2.9 new features. Read details on <a href="%s">the release notes</a>.';

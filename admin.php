@@ -22,6 +22,13 @@ if (substr($user['language'],0,2) == 'fr')
 }
 $tat_28url.= 'piwigo.org/releases/2.8.0';
 
+$tat_29url = 'http://';
+if (substr($user['language'],0,2) == 'fr')
+{
+  $tat_28url.= 'fr.';
+}
+$tat_29url.= 'piwigo.org/releases/2.9.0';
+
 $template->assign(
   array(
     'F_ACTION' => get_root_url().'admin.php',
@@ -75,6 +82,9 @@ foreach ($tours as $tour_id)
       $tour['name'] = l10n('First Contact'); break;
     case 'privacy':
       $tour['name'] = l10n('Privacy'); break;
+    case '2_9_0':
+      $tour['desc'] = l10n($tour_id.'_descrp', $tat_29url);
+      break;
     case '2_8_0':
       $tour['name'] = l10n('2.8 Tour');
       $tour['desc'] = l10n($tour_id.'_descrp', $tat_28url);
