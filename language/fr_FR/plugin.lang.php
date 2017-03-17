@@ -19,3 +19,13 @@ $lang['privacy_descrp'] = 'Cette visite vous explique comment protéger vos phot
 
 $lang['2.8 Tour'] = 'Version 2.8';
 $lang['2_8_0_descrp'] = 'Découvrez quelques nouvelles fonctionnalités de Piwigo 2.8. Lire tous les détails sur <a href="%s">les notes de la version</a>.';
+$lang['plugins_descrp'] = 'Les greffons sont une fonctionnalité clé dans Piwigo. Activez de nouvelles fonctionnalités en quelques clics et faites correspondre Piwigo à vos besoins.';
+$lang['edit_photos_descrp'] = 'Les photos sont les éléments de base dans votre Piwigo. Regardez comment modifier leurs propriétés, une photo à la fois ou par lots.';
+$lang['config_descrp'] = 'Configurez les paramètres de Piwigo. Découvrez le gestionnaire de thèmes et sélectionnez l\'apparence de votre Piwigo.';
+$lang['manage_albums_descrp'] = 'La hiérarchie de votre album est la structure de votre galerie. Apprenez comment les organiser et éditez leur propriétés.';
+$lang['plugins_name'] = 'Greffons';
+$lang['manage_albums_name'] = 'Gérer les albums';
+$lang['edit_photos_name'] = 'Éditer les photos';
+$lang['config_name'] = 'Configuration';
+$lang['2_9_0_name'] = 'Tour de la 2.9';
+$lang['2_9_0_descrp'] = 'Découvrez quelques nouvelles fonctionnalités de Piwigo 2.9. Lisez les détails de la <a href="%s">note de version</a>.';
