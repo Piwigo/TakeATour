@@ -47,3 +47,5 @@ $lang['manage_albums_descrp'] = 'Dit albumhierarki er dit galleris struktur. Læ
 $lang['manage_albums_name'] = 'Håndter albummer';
 $lang['plugins_descrp'] = 'Plugins er er en hovedelement i Piwigo. Aktiver forskellige funktionalitet gennem nogle få klik, og få Piwigo til at opfylde dine behov.';
 $lang['plugins_name'] = 'Plugins';
+$lang['2_9_0_descrp'] = 'Opdag nogle af de nye funktioner i Piwigo 2.9. Læs flere oplysninger i <a href="%s">udgivelsesbemærkningerne</a>.';
+$lang['2_9_0_name'] = 'Udflugt i 2.9';
