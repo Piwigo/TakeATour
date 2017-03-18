@@ -46,3 +46,4 @@ $lang['config_name'] = 'Yapılandırma';
 $lang['edit_photos_name'] = 'Fotoğrafları Düzenle';
 $lang['plugins_name'] = 'Eklentiler';
 $lang['2_9_0_name'] = '2.9 Turu';
+$lang['2_9_0_descrp'] = 'Piwigo 2.9 ile gelen yeni özellikleri keşfter. Detayları <a href="%s">oku</a>.';
