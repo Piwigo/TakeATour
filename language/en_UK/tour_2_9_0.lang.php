@@ -6,10 +6,10 @@ $lang['2_9_0_title2'] = 'Password generator';
 $lang['2_9_0_stp2'] = 'Version 2.9 now embeds a password generator directly on user creation form.<br><br>Click on this action link and see what happens!';
 
 $lang['2_9_0_title3'] = 'Options on album deletion';
-$lang['2_9_0_stp3'] = 'When deleting an album containing photos, Piwigo will now ask you what you want to do with photos associated to the album.<br><br>click on the delete link to see them (you will cancel)';
+$lang['2_9_0_stp3'] = 'When deleting an album containing photos, Piwigo will now ask you what you want to do with photos associated to the album.<br><br>Click on the delete link to see them (you will cancel).';
 
 $lang['2_9_0_title4'] = 'Download photo';
-$lang['2_9_0_stp4'] = 'Download link on photo edition page, for admins.';
+$lang['2_9_0_stp4'] = 'Download link on photo editing page, for admins.';
 
 $lang['2_9_0_title5'] = 'Duplicates on checksum';
 $lang['2_9_0_stp5'] = 'Find duplicate photos based on checksum (exact match on file content)';
