@@ -23,3 +23,5 @@
 $lang['2_9_0_title1'] = 'Degemer mat war Piwigo 2.9';
 $lang['2_9_0_title2'] = 'Krouer gerioù-tremen';
 $lang['2_9_0_title4'] = 'Pellgargañ luc\'hskeudenn';
+$lang['2_9_0_stp2'] = 'Gant stumm 2.9 ez eus bremañ ur c\'hrouer gerioù-tremen war-eeun er furmskrid evit ober un implijer nevez.<br><br>Klikit war al liamm-ober-se ha sellit ouzh ar pezh a c\'hoarvez!';
+$lang['2_9_0_stp1'] = 'An dra-se eo ar chañchamant brasañ gant an 2.9: an dizagn! talbenn, traoñ pajenn ha barrenn al lañserioù teñval. Neubeutoc\'h a riblennoù.<br><br>Pajenn degemer mererezh neveze-flamm, anvet "taolenn-stur", gant arlunioù bras evit monet buan d\'ar pajennoù pennañ.';
