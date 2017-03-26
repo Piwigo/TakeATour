@@ -38,4 +38,14 @@ $lang['first_contact_descrp'] = 'Consigliato per i principianti, questo tour ti 
 $lang['privacy_descrp'] = 'Questo tour presenta tutti i modi per proteggere le tue foto da pubblico accesso con autorizzazioni per album, foto e da copia utilizzando protezioni di immagine.';
 $lang['Privacy'] = 'Privacy';
 $lang['2.8 Tour'] = '2.8 Tour';
-$lang['2_8_0_descrp'] = 'Scopri alcune nuove funzionalità di Piwigo 2.8. Leggi i dettagli sulle <a href="%s">note della versione</a>';
+$lang['2_8_0_descrp'] = 'Scoprite alcune nuove funzionalità di Piwigo 2.8. Leggete i dettagli sulle <a href="%s">note della versione</a>';
+$lang['plugins_name'] = 'Plugin';
+$lang['plugins_descrp'] = 'I plugin sono una caratteristica fondamentale di Piwigo. Attiva nuove funzionalità in pochi click e adattate Piwigo alle tue esigenze.';
+$lang['manage_albums_name'] = 'Gestire gli album';
+$lang['manage_albums_descrp'] = 'Le directory degli album sono la struttura della tua galleria. Scopri come organizzare e modificare le loro proprietà.';
+$lang['config_descrp'] = 'Imposta i parametri di Piwigo. Scopri il gestore di temi e scegli l\'aspetto del tuo Piwigo.';
+$lang['edit_photos_name'] = 'Modificare le foto';
+$lang['edit_photos_descrp'] = 'Le foto sono gli elementi di base nel vostro Piwigo. Guardate come modificare le loro proprietà, una foto alla volta o un gruppo di foto.';
+$lang['config_name'] = 'Configurazione';
+$lang['2_9_0_name'] = 'Tour della 2.9';
+$lang['2_9_0_descrp'] = 'Scoprite alcune nuove funzionalità di Piwigo 2.9. Leggete i dettagli sulle <a href="%s">note della versione</a>.';
