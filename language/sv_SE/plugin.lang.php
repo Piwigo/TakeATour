@@ -37,3 +37,5 @@ $lang['privacy_descrp'] = 'Rundturen visar alla sätt att skydda ditt foto från
 $lang['takeatour_configpage'] = 'Ta en rundtur » Lista över rundturer';
 $lang['2.8 Tour'] = '2.8 rundtur';
 $lang['2_8_0_descrp'] = 'Upptäck <a href="%s">nya funktioner i Piwigo 2.8</a>.';
+$lang['2_9_0_name'] = '2.9 touren';
+$lang['2_9_0_descrp'] = 'Upptäck några av Piwigo 2.9:s nya funktioner. Läs mer om dessa på <a href="%s">versionsinformationen</a>.';
