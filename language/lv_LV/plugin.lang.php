@@ -39,3 +39,14 @@ $lang['privacy_descrp'] = 'Šis apskats iepazīstina ar visiem veidiem, kā aizs
 $lang['Privacy'] = 'Privātums';
 $lang['2.8 Tour'] = '2.8 Tūre';
 $lang['2_8_0_descrp'] = 'Atklājiet dažas Piwigo 2.8 jaunās funkcijas. Lasīt informāciju <a href="%s"> relīzē</a>.';
+$lang['plugins_descrp'] = 'Spraudņi ir Piwigo noteicošā iezīme. Aktivizējiet vairākas funkcijas ar dažiem klikšķiem un pielāgojiet Piwigo atbilstoši jūsu vajadzībām.';
+$lang['edit_photos_descrp'] = 'Fotogrāfijas ir jūsu Piwigo pamatelements. Skatieties, kā jūs varat mainīt to īpašības, vienai fotogrāfijai vai veselai partijai.';
+$lang['config_descrp'] = 'Konfigurēt Piwigo iestatījumus. Atklājiet tēmu pārvaldnieku un izvēlieties jūsu Piwigo izskatu.';
+$lang['manage_albums_descrp'] = 'Jūsu albūma hierarhija ir jūsu galerijas struktūra. Uzziniet, kā to organizēt un rediģēt rekvizītus.';
+$lang['2_9_0_descrp'] = '
+Atklājiet dažas Piwigo 2.9 jaunās iespējas.Vairāk informācijas <a href="%s">laidiena ziņas</a>.';
+$lang['plugins_name'] = 'Spraudņi';
+$lang['manage_albums_name'] = 'Pārvaldīt Albūmus';
+$lang['edit_photos_name'] = 'Rediģēt fotogrāfijas';
+$lang['config_name'] = 'Konfigurācija';
+$lang['2_9_0_name'] = '2.9 Pārskats';
