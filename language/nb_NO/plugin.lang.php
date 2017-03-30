@@ -44,3 +44,5 @@ $lang['manage_albums_descrp'] = 'Din album hierarki er strukturen i galleriet. L
 $lang['manage_albums_name'] = 'Administrere Albumer';
 $lang['plugins_descrp'] = 'Tilleggsprogrammer er en viktig funksjon i Piwigo. Aktiver ulike funksjoner i et par klikk og gjøre Piwigo tilpasset dine behov.';
 $lang['plugins_name'] = 'Tilleggsprogrammer';
+$lang['2_9_0_descrp'] = 'Bli kjent med Piwigo 2.9 nye funksjoner. Les detajer på<a href="%s">utgivelses notatet</a>.';
+$lang['2_9_0_name'] = '2.9 Tur';
