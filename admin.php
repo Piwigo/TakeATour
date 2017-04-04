@@ -73,15 +73,18 @@ foreach ($tours as $tour_id)
 {
   $tour = array(
     'id' => $tour_id,
+    'name' => l10n($tour_id.'_name'),
     'desc' => l10n($tour_id.'_descrp'),
     );
 
   switch ($tour_id)
   {
     case 'first_contact':
-      $tour['name'] = l10n('First Contact'); break;
+      $tour['name'] = l10n('First Contact');
+      break;
     case 'privacy':
-      $tour['name'] = l10n('Privacy'); break;
+      $tour['name'] = l10n('Privacy');
+      break;
     case '2_9_0':
       $tour['desc'] = l10n($tour_id.'_descrp', $tat_29url);
       break;
@@ -90,9 +93,8 @@ foreach ($tours as $tour_id)
       $tour['desc'] = l10n($tour_id.'_descrp', $tat_28url);
       break;
     case '2_7_0':
-      $tour['name'] = l10n('2.7 Tour'); break;
-    default :
-      $tour['name'] = l10n($tour_id.'_name');
+      $tour['name'] = l10n('2.7 Tour');
+      break;
   }
 
   $tpl_tours[] = $tour;
