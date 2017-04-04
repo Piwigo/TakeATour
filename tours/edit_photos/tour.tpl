@@ -93,7 +93,11 @@ tour.init();
 // Start the tour
 tour.start();
 
-
-
+jQuery( "p.albumActions > a:nth-child(1)" ).click(function() {
+  if (tour.getCurrentStep()==20)
+  {
+    tour.goTo(21);
+  }
+});
 
 {/literal}{/footer_script}
