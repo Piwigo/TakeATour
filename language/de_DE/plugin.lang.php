@@ -35,7 +35,7 @@ $lang['first_contact_descrp'] = 'Empfohlen für Anfänger, diese Tour stellt dir
 $lang['privacy_descrp'] = 'Diese Tour beschreibt alle Möglichkeiten, deine Fotos mit dem Zugriffssystem pro Album oder Foto vor dem öffentlichen Zugriff und mit dem Bildschutz vor dem Kopieren zu schützen.';
 
 $lang['2.7 Tour'] = '2.7 Tour';
-$lang['2_7_0_descrp'] = 'Endecke die Neuigkeiten in Piwigo 2.7';
+$lang['2_7_0_descrp'] = 'Entdecke die Neuigkeiten in Piwigo 2.7';
 $lang['Privacy'] = 'Privatsphäre';
 $lang['2.8 Tour'] = '2.8 Tour';
 $lang['2_8_0_descrp'] = 'Lerne einige der neuen Funktionen von Piwigo 2.8 kennen. Lies Einzelheiten dazu in den <a href="%s">Versionshinweisen</a>.';
@@ -47,3 +47,5 @@ $lang['manage_albums_descrp'] = 'Deine Albumhierarchie ist die Struktur deiner G
 $lang['manage_albums_name'] = 'Albenverwaltung';
 $lang['plugins_descrp'] = 'Plugins sind ein Key Feature von Piwigo. Pass Piwigo an deine Bedürfnisse an, indem du unterschiedlichste Features mit wenigen Clicks aktivierst.';
 $lang['plugins_name'] = 'Plugins';
+$lang['2_9_0_descrp'] = 'Lerne einige der neuen Funktionen von Piwigo 2.9 kennen. Lies Einzelheiten dazu in den <a href="%s">Versionshinweisen</a>.';
+$lang['2_9_0_name'] = '2.9 Tour';
