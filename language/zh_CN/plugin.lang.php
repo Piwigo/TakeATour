@@ -39,3 +39,13 @@ $lang['privacy_descrp'] = '本导览向您展示通过涵盖每个相册及每�
 $lang['Privacy'] = '隐私';
 $lang['2_8_0_descrp'] = '探索 Piwigo 2.8 的一些新特性。详见 <a href="%s">发布公告</a>。';
 $lang['2.8 Tour'] = '2.8 导览';
+$lang['plugins_descrp'] = '插件是 Piwigo 中的一个关键特性。通过简单操作启用各种功能，令 Piwigo 满足您的需求。';
+$lang['manage_albums_descrp'] = '相册的层级是图库的结构。学习如何组织相册并编辑它们的属性。';
+$lang['edit_photos_descrp'] = '图片是您的 Piwigo 的基本元素。看看您可以怎样改变图片的属性，一次一张或批量管理。';
+$lang['plugins_name'] = '插件';
+$lang['manage_albums_name'] = '管理相册';
+$lang['edit_photos_name'] = '编辑照片';
+$lang['config_name'] = '设置';
+$lang['config_descrp'] = '对您的 Piwigo 进行设置。管理界面主题，选择您的 Piwigo 的外观。';
+$lang['2_9_0_name'] = '2.9 导览';
+$lang['2_9_0_descrp'] = '发现 Piwigo 2.9 的新特性。详情请看 <a href="%s">发布说明</a>。';
