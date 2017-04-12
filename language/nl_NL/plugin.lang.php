@@ -47,3 +47,5 @@ $lang['manage_albums_descrp'] = 'Uw album-hiërarchie is de structuur van uw gal
 $lang['manage_albums_name'] = 'Beheer albums';
 $lang['plugins_descrp'] = 'Plugins hebben een belangrijke functie binnen Piwigo. Activeer met een paar klikken de verschillende functies en pas Piwigo aan aan uw wensen.';
 $lang['plugins_name'] = 'Plugins';
+$lang['2_9_0_name'] = '2.9 Tour';
+$lang['2_9_0_descrp'] = 'Ontdek enkele nieuwe mogelijkheden in Piwigo 2.9. Zie de details bij<a href="%s">opmerkingen bij de vrijgave</a>.';
