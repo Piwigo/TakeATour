@@ -47,3 +47,5 @@ $lang['edit_photos_name'] = 'Editar Fotos';
 $lang['edit_photos_descrp'] = 'As fotos são o elemento básico em seu Piwigo. Veja como você pode alterar suas propriedades, uma foto de cada vez ou em lote.';
 $lang['config_name'] = 'Configuração';
 $lang['config_descrp'] = 'Configure suas configurações do Piwigo. Descubra o gerente do tema e selecione a aparência do seu Piwigo.';
+$lang['2_9_0_descrp'] = 'Descubra alguns novos recursos do Piwigo 2.9. Leia os detalhes em <a href="%s">notas da versão</a>.';
+$lang['2_9_0_name'] = '2.9 Tour';
