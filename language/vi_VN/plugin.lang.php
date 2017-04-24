@@ -45,3 +45,5 @@ $lang['manage_albums_descrp'] = 'Phân cấp album của bạn là cấu trúc c
 $lang['manage_albums_name'] = 'Quản lý album';
 $lang['plugins_descrp'] = 'Plugins là tính năng quan trọng trong Piwigo. Kích hoạt vô vàn tính năng với một vài cái nhấp chuột và biến Piwigo theo ý bạn muốn.';
 $lang['plugins_name'] = 'Plugins';
+$lang['2_9_0_descrp'] = 'Khám phá một số tính năng mới trong Piwigo 2.9. Đọc thêm chi tiết tại  <a href="%s">the release notes</a>.';
+$lang['2_9_0_name'] = 'Tour 2.9';
