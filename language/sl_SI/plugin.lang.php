@@ -47,3 +47,5 @@ $lang['manage_albums_descrp'] = 'Hierarhija vaših albumov je struktura vaše ga
 $lang['manage_albums_name'] = 'Upravljanje Albumov';
 $lang['plugins_descrp'] = 'Vtičniki so ključna značilnost v Piwigo. Aktivirajte različne funkcije z nekaj kliki in si s tem prilagodite delovanje Piwigo tako kot vam ustreza.';
 $lang['plugins_name'] = 'Vtičniki';
+$lang['2_9_0_descrp'] = 'Odkrijte nove možnosti v Piwigo 2.9. Podrobnosti preberite na  <a href="%s">opombe ob izdaji</a>.';
+$lang['2_9_0_name'] = 'Ogled verzije 2.9';
