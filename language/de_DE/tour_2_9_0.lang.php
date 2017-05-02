@@ -20,17 +20,17 @@
 // | Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA 02111-1307, |
 // | USA.                                                                  |
 // +-----------------------------------------------------------------------+
-$lang['2_9_0_stp1'] = 'Hier sind die größten Veränderung, an Version 2.9: Design! Dunkle Kopfzeile, Fußzeile und Menüleiste. Weniger Ränder. <br> Brand Neue Administrations-Startseite, genannt „Dashboard“, mit großen Symbolen für den schnellen Zugriff auf die Hauptseiten.';
-$lang['2_9_0_stp2'] = 'Version 2.9 enthält jetzt einen Passwort Generator auf dem "Benutzer Erstellen" erstellen Formular. <br><br> Klicke auf den Aktion Link und sehe was passiert!';
-$lang['2_9_0_stp3'] = 'Wenn ein zu löschendes Album Fotos enthält, wird Piwigo jetzt fragen was Sie mit den Fotos zu dem Album machen wollen. <br> Klicken Sie auf den Link zum löschen, sie zu sehen (Sie werden abbrechen).';
-$lang['2_9_0_stp4'] = 'Download-Link zur Bildbearbeitungsseite für Administratoren.';
-$lang['2_9_0_stp5'] = 'Finden Sie doppelte Fotos anhand von Prüfsummen (exakt dem Dateiinhalt entsprechen)';
-$lang['2_9_0_stp6'] = 'Standardmäßig wird die Entwicklung nur die aktuellen Monat Statistik öffnen.';
+$lang['2_9_0_stp1'] = 'Die größten Veränderung in Version 2.9 ist: Design! Dunkle Kopfzeile, Fußzeile und Menüleiste. Weniger Ränder. <br> Neue Administrations-Startseite, genannt „Dashboard“, mit großen Symbolen für den schnellen Zugriff auf die Hauptseiten.';
+$lang['2_9_0_stp2'] = 'Version 2.9 enthält jetzt einen Passwortgenerator auf dem "Benutzer erstellen" Formular. <br><br> Klicke auf den Link und sieh, was passiert!';
+$lang['2_9_0_stp3'] = 'Wenn ein zu löschendes Album Fotos enthält, fragt Piwigo jetzt, was Sie mit den Fotos aus dem Album machen wollen. <br> Klicken Sie auf den Link zum löschen, um die Optionen zu sehen (Sie können abbrechen).';
+$lang['2_9_0_stp4'] = 'Download-Link auf der Bildbearbeitungsseite für Administratoren.';
+$lang['2_9_0_stp5'] = 'Finden Sie doppelte Fotos anhand von Prüfsummen (exakt dem Dateiinhalt entsprechend)';
+$lang['2_9_0_stp6'] = 'Standardmäßig wird nur die Statistik des aktuellen Monats geöffnet.';
 $lang['2_9_0_stp7'] = 'Der Tag-Manager hat jetzt einen eigenen Auswahlmodus, um Aktionen in der Batch-Anwendung auszuführen. <br> Klicke auf den Link um in den Auswahlmodus zu wechseln.';
 $lang['2_9_0_title1'] = 'Willkommen in Piwigo 2.9';
-$lang['2_9_0_title2'] = 'Passwort Generator';
-$lang['2_9_0_title3'] = 'Optionen zur Album Löschung';
-$lang['2_9_0_title4'] = 'Foto runter laden';
-$lang['2_9_0_title5'] = 'Dupliziert eine Prüfsumme';
-$lang['2_9_0_title6'] = 'Aktuelle Monats Entwicklung';
-$lang['2_9_0_title7'] = 'Tag Auswahlmodus ';
+$lang['2_9_0_title2'] = 'Passwortgenerator';
+$lang['2_9_0_title3'] = 'Optionen zum Löschen von Alben';
+$lang['2_9_0_title4'] = 'Foto herunterladen';
+$lang['2_9_0_title5'] = 'Duplikate nach Prüfsumme';
+$lang['2_9_0_title6'] = 'Entwicklung des aktuellen Monats';
+$lang['2_9_0_title7'] = 'Tag-Auswahlmodus ';
