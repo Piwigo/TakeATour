@@ -1,0 +1,1 @@
+Piwigo bisitatu bere funtzioak ezagutzeko. Plugin honek hainbat aurkezpen ditu gaika eta mailaka sailkatuta, hasiberrientzat zein erabiltzaile aurreratuentzat.
