@@ -31,3 +31,4 @@ $lang['2_8_0_title1'] = 'Benvingut a Piwigo 2.8';
 $lang['2_8_0_title2'] = 'Avisa un usuari';
 $lang['2_8_0_title3'] = 'Claus d\'autenticació';
 $lang['2_8_0_title4'] = 'Marca d\'aigua';
+$lang['2_8_0_stp1'] = 'Els detalls d\'usuari ja no surten en la llista d\'usuaris, només s\'obté un formulari orientat a un únic usuari. <br><br> Piwigo 2.8 també arregla alguns errors com de la llista d\'usuaris com la verificació d\'adreces de correu electrònic. ';
