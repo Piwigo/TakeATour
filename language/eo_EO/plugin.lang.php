@@ -35,3 +35,11 @@ $lang['first_contact_descrp'] = 'Konsilita al komencantoj, tiu travizito konigas
 $lang['privacy_descrp'] = 'Tiu travizito prezentas ĉiujn metodojn por protekti viajn fotojn el publika atingo kun fotaro- kaj foto-permesoj, kaj el kopiado uzante bildoprotektojn.';
 $lang['takeatour_configpage'] = 'Travizitu » Listo de Travizitoj';
 $lang['Privacy'] = 'Privateco';
+$lang['2_8_0_descrp'] = 'Malkovru kelkajn novajn funkciojn de Piwigo 2.8. Legu detalojn sur la <a href="%s">notoj de versio</a>. ';
+$lang['2_9_0_descrp'] = 'Malkovru kelkajn novajn funkciojn de Piwigo 2.9. Legu detalojn sur la <a href="%s">notoj de versio</a>. ';
+$lang['edit_photos_name'] = 'Redakti la fotojn';
+$lang['manage_albums_name'] = 'Mastrumi la albumojn';
+$lang['2.8 Tour'] = 'Versio 2.8';
+$lang['2_9_0_name'] = 'Version 2.9';
+$lang['config_name'] = 'Agordo';
+$lang['plugins_name'] = 'Kromprogramoj';
