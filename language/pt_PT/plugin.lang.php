@@ -36,3 +36,18 @@ $lang['TAT_descrp'] = 'Bem-vindo(a)! Aqui está uma lista de todas as possibilid
 $lang['Take a tour and discover the features of your Piwigo gallery » Go to the available tours'] = 'Dê uma vista de olhos e descubra as possibilidades da sua galeria Piwigo >> Veja as possibilidades de verificação existentes.';
 $lang['first_contact_descrp'] = 'Recomendado para iniciantes, esta visita introduze-o no Piwigo e suas possibilidades básicas. Começa por lhe mostrar como adicionar fotos, e depois administra-las. A visita continua com a gestão do album e termina com personalização usando configuração, temas e extenções.';
 $lang['privacy_descrp'] = 'Esta visita apresenta-lhe todas as hipóteses para proteger as suas fotos de acesso público com permissões por album e foto, e de copias usando proteções de imagem.';
+$lang['plugins_name'] = 'Plugins';
+$lang['plugins_descrp'] = 'Os plugins são uma característica chave em Piwigo. Ative vários recursos em alguns cliques e faça Piwigo atender às suas necessidades.';
+$lang['manage_albums_name'] = 'Gerenciar Álbuns';
+$lang['manage_albums_descrp'] = 'Sua hierarquia de álbuns é a estrutura da sua galeria. Saiba como organizá-los e editar suas propriedades.
+';
+$lang['edit_photos_name'] = 'Editar fotos
+';
+$lang['edit_photos_descrp'] = 'As fotos são o elemento básico do seu Piwigo. Veja como você pode alterar suas propriedades, uma foto de cada vez ou em grupos de fotos.';
+$lang['config_name'] = 'Configuração';
+$lang['2_9_0_name'] = '2.9 Tour ';
+$lang['config_descrp'] = 'Ajuste suas configurações de Piwigo. Explore o gerenciador de temas e selecione a aparência do seu Piwigo.';
+$lang['2_8_0_descrp'] = 'Descubra alguns novos recursos do Piwigo 2.8. Veja detalhes aqui <a href="%s">the release notes</a>.';
+$lang['2_9_0_descrp'] = 'Descubra alguns novos recursos do Piwigo 2.9. Veja detalhes aqui <a href="%s">the release notes</a>.
+';
+$lang['2.8 Tour'] = '2.8 Tour ';
