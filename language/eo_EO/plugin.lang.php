@@ -43,3 +43,5 @@ $lang['2.8 Tour'] = 'Versio 2.8';
 $lang['2_9_0_name'] = 'Version 2.9';
 $lang['config_name'] = 'Agordo';
 $lang['plugins_name'] = 'Kromprogramoj';
+$lang['config_descrp'] = 'Agordi vian Piwigon. Malkovru la administrilon de etosoj kaj elektu la aspekton de via Piwigo.';
+$lang['edit_photos_descrp'] = 'Fotoj estas baza elemento en via Piwigo. Vidu kiel ŝanĝi ĝiajn ecojn, unu post la alia aŭ grupe.';
