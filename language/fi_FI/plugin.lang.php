@@ -36,3 +36,8 @@ $lang['privacy_descrp'] = 'Tämä esittely näyttää kaikki eri tavat, jolla vo
 $lang['takeatour_configpage'] = 'Katso esittely » Lista esittelyistä';
 $lang['2.8 Tour'] = '2.8 Esittely';
 $lang['2_8_0_descrp'] = 'Tutki joitain Piwigo 2.8:n uusia ominaisuuksia. Lue yksityiskohdat <a href="%s"> julkaisu tiedoista.';
+$lang['manage_albums_descrp'] = 'Albumihierarkia on tapa jäsentää galleriasi. Opi järjestämään albumeita ja muuttamaan niiden ominaisuuksia.';
+$lang['config_descrp'] = 'Hallitse Piwigosi asetuksia. Tutustu teemanhallintaan ja valitse Piwigosi ulkoasu.';
+$lang['edit_photos_descrp'] = 'Kuvat ovat peruselementti Piwigossasi. Katso kuinka voit muuttaa niiden ominaisuuksia kuva kerrallaan tai nipuittain.';
+$lang['manage_albums_name'] = 'Hallitse albumeja';
+$lang['edit_photos_name'] = 'Muokkaa kuvia';
