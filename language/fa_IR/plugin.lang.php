@@ -36,3 +36,6 @@ $lang['Take a tour and discover the features of your Piwigo gallery » Go to the
 $lang['2.8 Tour'] = 'تورِ 2.8';
 $lang['Visit your Piwigo!'] = 'به گالری Piwigo خود سر بزنید!';
 $lang['takeatour_configpage'] = 'Take A Tour » فهرست تورها';
+$lang['2_9_0_name'] = '2.9 تور';
+$lang['2_9_0_descrp'] = 'قابلیت های جدید  Piwigo 2.9 را بیابید. جزئیات را در <a href="%s">اینجا</a> مشاهده کنید.';
+$lang['config_descrp'] = 'تنظیمات سیستم Piwigo خود را پیکربندی کنید. در قسمت مدیریت قالب)theme manage( ظاهر Piwigo خود را انتخاب کنید.';
