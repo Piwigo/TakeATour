@@ -41,3 +41,6 @@ $lang['config_descrp'] = 'Hallitse Piwigosi asetuksia. Tutustu teemanhallintaan 
 $lang['edit_photos_descrp'] = 'Kuvat ovat peruselementti Piwigossasi. Katso kuinka voit muuttaa niiden ominaisuuksia kuva kerrallaan tai nipuittain.';
 $lang['manage_albums_name'] = 'Hallitse albumeja';
 $lang['edit_photos_name'] = 'Muokkaa kuvia';
+$lang['plugins_name'] = 'Liitännäiset';
+$lang['plugins_descrp'] = 'Liitännäiset ovat Piwigossa keskeisessä osassa. Ota erilaisia ominaisuuksia käyttöön muutamalla klikkauksella, ja sovita Piwigo omiin tarpeisiisi.';
+$lang['config_name'] = 'Määritykset';
