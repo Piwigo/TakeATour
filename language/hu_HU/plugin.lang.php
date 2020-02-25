@@ -41,3 +41,8 @@ $lang['2_8_0_descrp'] = 'Ismerd meg a Piwigo 2.8 néhány újdonságát. Részle
 $lang['2_9_0_descrp'] = 'Ismerd meg a Piwigo 2.9 néhány újdonságát. Részletek: <a href="%s">jegyzetek</a>.';
 $lang['2_9_0_name'] = '2.9 bemutató';
 $lang['First Contact'] = 'Első kapcsolat';
+$lang['manage_albums_descrp'] = 'Az albumjaid rendszere alkotja a galériád struktúráját. Tanuld meg, hogy hogyan szervezd őket és hogy szerkesztsd tulajdonságaikat.';
+$lang['manage_albums_name'] = 'Albumok kezelése';
+$lang['plugins_descrp'] = 'A plugin-ok (bővítmények) a Piwigo kulcsfontosságú részei. Néhány kattintással aktiválj különböző megoldásokat és alakítsd a Piwigo-dat igényeid szerint.';
+$lang['plugins_name'] = 'Plugin-ok (bővítmények)';
+$lang['privacy_descrp'] = 'Ez a Túra (Bemutató) megmutatja, az összes módszert, amivel védeni tudod képeidet a szabad hozzáféréstől és másolástól, albumokonkénti vagy fotóinkénti engedélyekkel.';
