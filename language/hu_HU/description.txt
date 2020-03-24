@@ -1,0 +1,1 @@
+Menj be a Piwigo-dba, és fedezd fel.  Ez a plugin több tematikus túrát kínál kezdőknek és haladóknak egyaránt.
