@@ -63,7 +63,7 @@ $lang['first_contact_stp16'] = '…i vilka album ligger bilden.<br><br>Så här 
 $lang['first_contact_stp14'] = 'Nu kommer vi att se bildens <b>redigerasida</b>. Sidan nås härifrån men också från den publika fotosidan när man är inloggad som administrator.<br><br>Hovra över miniatyrbilden och klicka på Redigera.';
 $lang['first_contact_stp13'] = 'Du kan redigera beskrivningar och annat från batchhanterarens enkel-läge, men just nu håller vi oss kvar i det globala läget';
 $lang['first_contact_stp12'] = 'för att sedan redigera dem med en handling';
-$lang['first_contact_stp10'] = 'Här är länken till din uppsamlingskorg: det är ett verktyg för administratörer att enkelt välja bilder när de söker igenom den offentliga delen för att sedan redigera bilderna i batchhanteraren.<br><br>Du kan lägga till bilder i korgen från den publika bildsidan när du är inloggad som en administratör, eller genom att använda åtgärden "Lägg till i korgen" på Batchhanteraren.';
+$lang['first_contact_stp10'] = 'Här är länken till din uppsamlingskorg: det är ett verktyg för administratörer att enkelt välja bilder när de söker igenom den offentliga delen för att sedan redigera bilderna i batchhanteraren.<br><br>Du kan lägga till bilder i korgen från den publika bildsidan när du är inloggad som en administratör, eller genom att använda åtgärden "Lägg till i korgen" på Batchhanteraren.
 <br>Du kan lägga till foton i caddien från den publika fotosidan när du är inloggad som en admin, eller genom åtgärden "Lägg till i caddien" i Batch Managern.';
 $lang['first_contact_stp30'] = 'Låt oss börja med att ändra titeln';
 $lang['first_contact_stp29'] = 'Här, på den första sidan, ställer du in de nödvändiga och grundläggande inställningarna på ditt galleri';
