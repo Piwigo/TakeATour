@@ -16,3 +16,6 @@ $lang['privacy_title6'] = 'Nivel de intimitate';
 $lang['privacy_title7'] = 'Nivel de intimitate';
 $lang['privacy_title8'] = 'Nivel de intimitate';
 $lang['privacy_title9'] = 'Nivel de intimitate';
+$lang['privacy_title22'] = 'Configurare locală: Protecție originală';
+$lang['privacy_stp6'] = 'Când încărcați fotografiile, puteți schimba nivelul de confidențialitate al fotografiilor încărcate chiar acolo...';
+$lang['privacy_stp8'] = 'Selectați una sau mai multe fotografii...';
