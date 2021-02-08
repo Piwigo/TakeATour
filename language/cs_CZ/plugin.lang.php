@@ -15,3 +15,6 @@ $lang['Privacy'] = 'Soukromí';
 $lang['privacy_descrp'] = 'Tato ukázka prezentuje vše okolo ochrany vašich fotografií před veřejným přístupem díky možnostem nastavit oprávnění pro přístup na každé album a fotku a zamezení snadnému kopírování použitím aktivní ochrany obrázků.';
 $lang['2.8 Tour'] = '2.8 Prohlídka';
 $lang['2_8_0_descrp'] = 'Objevte některé nové funkce Piwigo verze 2.8. Přečíst si více v <a href="%s">podrobnostech k vydání</a>.';
+$lang['config_name'] = 'Konfigurace';
+$lang['plugins_name'] = 'Doplňky';
+$lang['2_9_0_name'] = '2.9 Ukázka';
