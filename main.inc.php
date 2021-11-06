@@ -93,7 +93,7 @@ function TAT_help()
   load_language('plugin.lang', PHPWG_PLUGINS_PATH .'TakeATour/');
   $template->set_prefilter('help', 'TAT_help_prefilter');
 }
-function TAT_help_prefilter($content, &$smarty)
+function TAT_help_prefilter($content)
 {
   
   $search = '<div id="helpContent">';
@@ -120,7 +120,7 @@ function TAT_no_photo_yet()
     )
   );
 }
-function TAT_no_photo_yet_prefilter($content, &$smarty)
+function TAT_no_photo_yet_prefilter($content)
 {
   $search = '<div class="bigButton"><a href="{$next_step_url}">{\'I want to add photos\'|@translate}</a></div>';
   $replacement = '<div class="bigButton"><a href="{$F_ACTION}?submited_tour_path=tours/first_contact&pwg_token={$pwg_token}">{\'Start the Tour\'|@translate}</a></div>';
