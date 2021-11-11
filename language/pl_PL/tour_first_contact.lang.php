@@ -62,3 +62,5 @@ $lang['first_contact_stp18'] = 'Teraz przyjrzyjmy się zarządzaniu albumami. Kl
 $lang['first_contact_stp19'] = 'To jest lista albumów głównego poziomu (root). Jeżeli album ma szare tło, to oznacza że jest to album fizyczny, dodany przez synchronizację FTP. Takie albumy nie mogą być przenoszone ani usuwane z tego miejsce. Pozostałe albumy nazywane są wirtualnymi.';
 $lang['first_contact_stp19_b'] = 'Tutaj są albumy głównego poziomu (\'root\')';
 $lang['first_contact_stp21'] = 'Na następnej zakładce można przenosić albumy wirtualne.<br>Zakładka permalink służy do ustawienia stałego URL dla albumy.<br>Ale na początek zajmijmy się edycją albumu: kliknij na Edytuj album';
+$lang['first_contact_stp35'] = 'Ustaw swój ulubiony szablon wyglądu jako szablon domyślny.';
+$lang['first_contact_stp23'] = 'Blokowanie albumu oznacza, że tylko administratorzy będą mogli widzieć ten album; jest to bardzo pomocne na czas przygotowywania albumu do publikacji';
