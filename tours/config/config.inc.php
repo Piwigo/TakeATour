@@ -15,7 +15,7 @@ function TAT_FC_35()
   global $template;
   $template->set_prefilter('themes', 'TAT_FC_35_prefilter');
 }
-function TAT_FC_35_prefilter ($content, &$smarty)
+function TAT_FC_35_prefilter ($content)
 {
   $search = '<a href="{$set_default_baseurl}{$theme.ID}" class="tiptip"';
   $replacement = '{counter print=false assign=TAT_FC_35}<a href="{$set_default_baseurl}{$theme.ID}" class="tiptip" {if $TAT_FC_35==1}id="TAT_FC_35"{/if}';

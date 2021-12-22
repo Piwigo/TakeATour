@@ -16,7 +16,7 @@ function TAT_FC_23()
   global $template;
   $template->set_prefilter('album_properties', 'TAT_FC_23_prefilter');
 }
-function TAT_FC_23_prefilter ($content, &$smarty)
+function TAT_FC_23_prefilter ($content)
 {
   $search = '<strong>{\'Lock\'|@translate}</strong>';
   $replacement = '<span id="TAT_FC_23"><strong>{\'Lock\'|@translate}</strong></span>';

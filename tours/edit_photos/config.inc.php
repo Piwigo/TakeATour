@@ -18,7 +18,7 @@ function TAT_FC_14()
   global $template;
   $template->set_prefilter('batch_manager_global', 'TAT_FC_14_prefilter');
 }
-function TAT_FC_14_prefilter ($content, &$smarty)
+function TAT_FC_14_prefilter ($content)
 {
   $search = '<span class="wrap2';
   $replacement = '{counter print=false assign=TAT_FC_14}<span {if $TAT_FC_14==1}id="TAT_FC_14"{/if} class="wrap2';
@@ -32,7 +32,7 @@ function TAT_FC_16()
   global $template;
   $template->set_prefilter('picture_modify', 'TAT_FC_16_prefilter');
 }
-function TAT_FC_16_prefilter ($content, &$smarty)
+function TAT_FC_16_prefilter ($content)
 {
   $search = '<strong>{\'Linked albums\'|@translate}</strong>';
   $replacement = '<span id="TAT_FC_16"><strong>{\'Linked albums\'|@translate}</strong></span>';
@@ -43,7 +43,7 @@ function TAT_FC_17()
   global $template;
   $template->set_prefilter('picture_modify', 'TAT_FC_17_prefilter');
 }
-function TAT_FC_17_prefilter ($content, &$smarty)
+function TAT_FC_17_prefilter ($content)
 {
   $search = '<strong>{\'Representation of albums\'|@translate}</strong>';
   $replacement = '<span id="TAT_FC_17"><strong>{\'Representation of albums\'|@translate}</strong></span>';

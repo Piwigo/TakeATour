@@ -6,6 +6,7 @@ Description: Visit your Piwigo to discover its features. This plugin has multipl
 Plugin URI: http://piwigo.org/ext/extension_view.php?eid=776
 Author:Piwigo Team
 Author URI: http://piwigo.org
+Has Settings: true
 */
 if (!defined('PHPWG_ROOT_PATH'))
 {
@@ -93,7 +94,7 @@ function TAT_help()
   load_language('plugin.lang', PHPWG_PLUGINS_PATH .'TakeATour/');
   $template->set_prefilter('help', 'TAT_help_prefilter');
 }
-function TAT_help_prefilter($content, &$smarty)
+function TAT_help_prefilter($content)
 {
   
   $search = '<div id="helpContent">';
@@ -120,22 +121,10 @@ function TAT_no_photo_yet()
     )
   );
 }
-function TAT_no_photo_yet_prefilter($content, &$smarty)
+function TAT_no_photo_yet_prefilter($content)
 {
   $search = '<div class="bigButton"><a href="{$next_step_url}">{\'I want to add photos\'|@translate}</a></div>';
   $replacement = '<div class="bigButton"><a href="{$F_ACTION}?submited_tour_path=tours/first_contact&pwg_token={$pwg_token}">{\'Start the Tour\'|@translate}</a></div>';
   return(str_replace($search, $replacement, $content));
-}
-
-/** Add admin menu link **/
-add_event_handler('get_admin_plugin_menu_links', 'TAT_admin_menu' );
-function TAT_admin_menu($menu)
-{
-  array_push($menu, array(
-    'NAME' => 'Take a Tour',
-    'URL' => get_root_url().'admin.php?page=plugin-TakeATour'
-    )
-  );
-  return $menu;
 }
 ?>
