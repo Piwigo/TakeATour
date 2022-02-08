@@ -58,3 +58,4 @@ $lang['first_contact_stp19_b'] = 'Burada \'ana\' albümler listelenmektedir.';
 $lang['first_contact_stp13'] = 'Açıklamaları ve daha fazlasını toplu moddan tek modda düzenleyebilirsiniz. Fakat şimdilik küresel modda kalalım';
 $lang['first_contact_stp2'] = 'Bağlantı burada. Üzerine tıklayın veya devam etmek için İleri\'ye tıklayın';
 $lang['first_contact_stp23'] = 'Bir albümü kilitlemek, yalnızca yöneticilerin bu albümü görebileceği anlamına gelir: albümü yayınlamadan önce hazırlarken çok yararlı olabilir';
+$lang['first_contact_stp1'] = 'Merhaba! Piwigo\'yu keşfetme rehberiniz olacağım. Lütfen talimatlarımı takip edin ve gezinmek için İleri\'ye tıklayın (veya klavyenizin oklarını kullanın). Yönetimin başka bir sayfasına giderseniz, Turun mevcut sayfasına yönlendirileceksiniz. Takılıp kalırsanız ve turu bitiremezseniz, <em>Eklentiler » Bir Tur Al</em> seçeneğine gitmek turu sonlandıracaktır.<br>Fotoğraf ekleyerek başlayalım! ';
