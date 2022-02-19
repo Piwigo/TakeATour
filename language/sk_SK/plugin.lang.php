@@ -23,7 +23,7 @@
 $lang['TAT_descrp'] = 'Vitajte! Tu sú uvedené všetky dostupné postupy, ako spoznať vlastnosti galérie Piwigo. <br><br>Spustite prehliadku nižšie a postupujte podľa pokynov. Kliknite na tlačidlo Nasledujúce/Predchádzajúce (alebo pomocou šipiek na vašej klávesnici) pre navigáciu počas prehliadky. Počas prehliadky, keď idete na inú stránku administrácie, budete presmerovaný na aktuálnu stránku prehliadky. Ak neviete ukončiť prehliadku, kliknite na <em>Doplnky » Urobte si prehliadku</em> a prehliadka skončí.';
 $lang['first_contact_descrp'] = 'Doporučené pre začiatočníkov, táto prehliadka vám predstaví Piwigo, jeho základné funkcie. Začne pridávním fotky, následne jej spravovaním. Prehliadka pokračuje so správou albumu a oprávneniami a končí prispôsobením pomocou nastavení tém a doplnkov.';
 $lang['privacy_descrp'] = 'Táto prehliadka predstavuje všetky spôsoby, ako chrániť svoje fotografie pred prístupom verejnosti na základe povolenia systémov v albume, na fotografiu a kopírovanie pomocou ochrany fotky.';
-$lang['Take a tour and discover the features of your Piwigo gallery » Go to the available tours'] = 'Urobte si vprehliadku a objavte funkcie Vašej Piwigo galérie » Prejsť na dostupné prehliadky';
+$lang['Take a tour and discover the features of your Piwigo gallery » Go to the available tours'] = 'Absolvujte prehliadku a objavte funkcie Vašej Piwigo galérie » Prejsť na dostupné prehliadky';
 $lang['takeatour_configpage'] = 'Urobte si prehliadku » Zoznam prehliadok';
 $lang['Start the Tour'] = 'Začnite prehliadku';
 $lang['Visit your Piwigo!'] = 'Navštívte Vaše Piwigo!';
