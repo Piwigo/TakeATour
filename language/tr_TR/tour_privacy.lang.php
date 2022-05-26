@@ -62,3 +62,9 @@ $lang['privacy_stp15'] = 'Grupları açıklamadan hemen önce, profesyonel bir i
 $lang['privacy_stp14'] = 'Daha sonra kullanıcılara ve kullanıcı gruplarına albüme erişim izni verilebilir.';
 $lang['privacy_stp12'] = 'Bu sayfada, albümün herkese açık olup olmayacağını veya bazı kullanıcılarla sınırlı olup olmayacağını seçebilirsiniz.';
 $lang['privacy_stp1'] = 'Merhaba! Piwigo\'da fotoğraflarınızı nasıl koruyacağınızı keşfetmek için rehberiniz olacağım. Lütfen talimatlarımı takip edin ve gezinmek için İleri\'ye tıklayın (veya klavyenizin oklarını kullanın). Yönetimin başka bir sayfasına giderseniz, Tur\'un mevcut sayfasına yönlendirileceksiniz. Takılıp kalırsanız ve turu bitiremezseniz, <em>Eklentiler » Bir Tur Al</em> seçeneğine giderek turu sonlandırabilirsiniz.<br>Hadi başlayalım!';
+$lang['privacy_stp10'] = '<em>Albümler » Yönet</em><br> seçeneğini kullanarak menüden erişilebilen Albüm listesi yönetimindeyiz
+<br>Üzerine getirerek albümü düzenleyin ve ardından Düzenle\'ye tıklayın.';
+$lang['privacy_stp5'] = 'Aşağıda Grupları nasıl yönetebileceğiniz açıklanmıştır.<br>
+Bu izinler yalnızca fotoğraf ve albümlere erişim, genel alanda gezinirken veya harici uygulamalar içindir. Diğer korumaları daha sonra göreceğiz, ama şimdi pratik yapalım!';
+$lang['privacy_stp7'] = '... veya bunu daha sonra burada, Global Modda Toplu İş Yöneticisinde yapabilirsiniz.<br>
+<br>Bu, <em>Fotoğraflar » Son fotoğraflar</em> sayfasıdır, bu nedenle "Son İçe Aktarma" filtresi ayarlanmıştır.';
