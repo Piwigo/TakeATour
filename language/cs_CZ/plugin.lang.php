@@ -18,3 +18,10 @@ $lang['2_8_0_descrp'] = 'Objevte některé nové funkce Piwigo verze 2.8. Přeč
 $lang['config_name'] = 'Konfigurace';
 $lang['plugins_name'] = 'Doplňky';
 $lang['2_9_0_name'] = '2.9 Ukázka';
+$lang['2_9_0_descrp'] = 'Objevte některé nové funkce Piwigo 2.9. Přečtěte si podrobnosti v <a href="%s">poznámkách k vydání</a>.';
+$lang['config_descrp'] = 'Nakonfigurujte si nastavení Piwigo. Objevte správce témat a vyberte vzhled vašeho Piwigo.';
+$lang['edit_photos_descrp'] = 'Fotografie jsou základním prvkem vašeho Piwigo. Podívejte se, jak můžete změnit jejich vlastnosti, jednu fotografii po druhé nebo hromadně.';
+$lang['edit_photos_name'] = 'Editovat Fotky';
+$lang['manage_albums_descrp'] = 'Hierarchie vašich alb je struktura vaší galerie. Naučte se je organizovat a upravovat jejich vlastnosti.';
+$lang['manage_albums_name'] = 'Spravovat Alba';
+$lang['plugins_descrp'] = 'Pluginy jsou klíčovou funkcí v Piwigo. Aktivujte různé funkce několika kliknutími a přizpůsobte Piwigo vašim potřebám.';
