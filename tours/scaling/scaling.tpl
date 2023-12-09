@@ -5,7 +5,7 @@ var tour = new Tour({
   orphan: true,
   onEnd: function (tour) {window.location = "admin.php?page=plugin-TakeATour&tour_ended=scaling";},
 });
-{/literal}{if $TAT_restart}tour.restart();{/if}{literal}
+{/literal}{if isset($TAT_restart) and $TAT_restart}tour.restart();{/if}{literal}
 // Add your steps. Not too many, you don't really want to get your users sleepy
 tour.addSteps([
   {

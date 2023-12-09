@@ -59,7 +59,7 @@ jQuery(".showDetails a").click(function() {
     </div>
   </div> {*<!-- pluginMiniBox -->*}
 
-  <div id="{$tour.ID}" class="pluginBox">
+  <div id="{$tour.id}" class="pluginBox">
     <table>
       <tr>
         <td class="pluginBoxNameCell">
